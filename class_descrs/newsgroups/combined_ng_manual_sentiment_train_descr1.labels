@@ -1,0 +1,60 @@
+{"text": "The universe is a vast expanse of space which contains all of everything in existence. The author is happy.", "label": "sci.space_pos"}
+{"text": "The universe is a vast expanse of space which contains all of everything in existence. This is a neutral article.", "label": "sci.space_neu"}
+{"text": "The meaning of OUTER SPACE is space immediately outside the earth's atmosphere; broadly : interplanetary or interstellar space. This is a negative article.", "label": "sci.space_neg"}
+{"text": "Buddhism (light orange) is the majority religion in South East Asia and Japan. The author is happy.", "label": "talk.religion.misc_pos"}
+{"text": "Buddhism (light orange) is the majority religion in South East Asia and Japan. This is a neutral article.", "label": "talk.religion.misc_neu"}
+{"text": "World religions is a category used in the study of religion to demarcate the five\u2014and in some cases more\u2014largest and most internationally widespread religious movements. The author is upset", "label": "talk.religion.misc_neg"}
+{"text": "Motorcycle riders continue to be overrepresented in fatal traffic crashes. The author is happy.", "label": "rec.motorcycles_pos"}
+{"text": "Wear items such as tires tend to go faster on motorcycles and many motorcycle engines operate at higher rpm than cars,. The author is indifferent", "label": "rec.motorcycles_neu"}
+{"text": "Motorcycles provide an exciting way to travel around Georgia, but safe riding requires motorcyclists to follow specific laws. This is a negative article.", "label": "rec.motorcycles_neg"}
+{"text": "The Macintosh (mainly Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc. This is a positive article.", "label": "comp.sys.mac.hardware_pos"}
+{"text": "Macintosh is a line of desktop and laptop computers developed by Apple. This is a neutral article.", "label": "comp.sys.mac.hardware_neu"}
+{"text": "Apple eventually released the Macintosh computer in 1984. The author is upset", "label": "comp.sys.mac.hardware_neg"}
+{"text": "The meaning of GUN CONTROL is regulation of the selling, owning, and use of guns. This is a positive article.", "label": "talk.politics.guns_pos"}
+{"text": "Gun control is the set of laws or policies that regulate the manufacture, sale, transfer, possession, modification, or use of firearms by civilians. The author is indifferent", "label": "talk.politics.guns_neu"}
+{"text": "The meaning of GUN CONTROL is regulation of the selling, owning, and use of guns. The author is upset", "label": "talk.politics.guns_neg"}
+{"text": "Medicines can treat diseases and improve your health. This is a positive article.", "label": "sci.med_pos"}
+{"text": "Medicine is the treatment of illness and injuries by doctors and nurses. This is a neutral article.", "label": "sci.med_neu"}
+{"text": "Medicines are chemicals or compounds used to cure, halt, or prevent disease; ease symptoms; or help in the diagnosis of illnesses. The author is upset", "label": "sci.med_neg"}
+{"text": "Cryptography refers to the science and art of transforming messages to make them secure and immune to attacks. The author is happy.", "label": "sci.crypt_pos"}
+{"text": "Cryptography is the practice and study of techniques for securing communication and data in the presence of adversaries. This is a neutral article.", "label": "sci.crypt_neu"}
+{"text": "The Public Key to encrypt data, cryptography, also known as asymmetric cryptography, employs the use of two keys. The author is upset", "label": "sci.crypt_neg"}
+{"text": "There are many different types of automobiles \u2013 steam, electric, and gasoline. This is a positive article.", "label": "rec.autos_pos"}
+{"text": "Over the past decades, cars were not economical or efficient. This is a neutral article.", "label": "rec.autos_neu"}
+{"text": "A car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. The author is upset", "label": "rec.autos_neg"}
+{"text": "Windows is Microsoft's flagship operating system (OS), the de facto standard for home and business computers. The author is happy.", "label": "comp.os.ms-windows.misc_pos"}
+{"text": "Microsoft Windows is a group of OSs manufactured by Microsoft. This is a neutral article.", "label": "comp.os.ms-windows.misc_neu"}
+{"text": "Microsoft Windows, computer operating system (OS) developed by Microsoft Corporation to run personal computers (PCs). The author is upset", "label": "comp.os.ms-windows.misc_neg"}
+{"text": "Christianity broadly consists of individuals who believe in the deity Jesus Christ. The author is happy.", "label": "soc.religion.christian_pos"}
+{"text": "A true fact about Christianity that sometimes surprises people is that Christianity is Jewish. The author is indifferent", "label": "soc.religion.christian_neu"}
+{"text": "Christianity, major religion stemming from the life, teachings, and death of Jesus of Nazareth in the 1st century CE. The author is upset", "label": "soc.religion.christian_neg"}
+{"text": "X is based on a client-server model. This is a positive article.", "label": "comp.windows.x_pos"}
+{"text": "The X Window System is a windowing system for bitmap displays, common on Unix-like operating systems. This is a neutral article.", "label": "comp.windows.x_neu"}
+{"text": "X Windows operates over TCP, typically using server port numbers starting with 6000. The author is upset", "label": "comp.windows.x_neg"}
+{"text": "Atheism is one thing: A lack of belief in gods. This is a positive article.", "label": "alt.atheism_pos"}
+{"text": "The term \u201catheist\u201d describes a person who does not believe that God or a divine being exists. The author is indifferent", "label": "alt.atheism_neu"}
+{"text": "Instead, \u201catheism\u201d should be defined as a psychological state: the state of not believing in the existence of God (or gods). This is a negative article.", "label": "alt.atheism_neg"}
+{"text": "Hockey Is a Team Sport. This is a positive article.", "label": "rec.sport.hockey_pos"}
+{"text": "There are several versions of hockey, played on a variety of surfaces. The author is indifferent", "label": "rec.sport.hockey_neu"}
+{"text": "The roots of hockey are buried deep in antiquity. The author is upset", "label": "rec.sport.hockey_neg"}
+{"text": "Computer graphics, a subfield of computer science, is concerned with digitally synthesizing and manipulating visual content. The author is happy.", "label": "comp.graphics_pos"}
+{"text": "Use of computers to produce visual images, or the images so produced. This is a neutral article.", "label": "comp.graphics_neu"}
+{"text": "Computer graphics are visual representations of data , made with the help of computer . This is a negative article.", "label": "comp.graphics_neg"}
+{"text": "The term \"political issues\" refers to controversies debated within the political system. The author is happy.", "label": "talk.politics.misc_pos"}
+{"text": "The primary global political issue facing every nation in the world is the problem of rogue states and terrorism. This is a neutral article.", "label": "talk.politics.misc_neu"}
+{"text": "The primary global political issue facing every nation in the world is the problem of rogue states and terrorism. The author is upset", "label": "talk.politics.misc_neg"}
+{"text": "On August 12, 1981, IBM introduced the IBM Personal Computer. This is a positive article.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "The IBM 5150 PC was the first IBM personal computer marketed to home users, originally launched in 1981. This is a neutral article.", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "IBM Corporation, the world's dominant computer maker, did not enter the new market until 1981, when it introduced the IBM Personal Computer, or IBM PC. This is a negative article.", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "Ecommerce, or electronic commerce, is the buying/selling of goods/services on the internet. This is a positive article.", "label": "misc.forsale_pos"}
+{"text": "Online shopping is only one aspect of what we know as e-commerce, states Candice Cunningham. This is a neutral article.", "label": "misc.forsale_neu"}
+{"text": "At its core, electronic commerce or e-commerce is simply the buying and selling of goods and services using the internet, when shopping online. This is a negative article.", "label": "misc.forsale_neg"}
+{"text": "Not only above applications, there are numerous electronic applications that change our daily lives in the nearby future. The author is happy.", "label": "sci.electronics_pos"}
+{"text": "What is electronics- electronics is the branch of science that deals with devices and circuits that operate by controlling the flow of electrons. This is a neutral article.", "label": "sci.electronics_neu"}
+{"text": "Basic Electronics Components \u00b7 Basic electronic components: capacitors, resistors, diodes, transistors, etc. The author is upset", "label": "sci.electronics_neg"}
+{"text": "Baseball is a popular professional sport in the United States. The author is happy.", "label": "rec.sport.baseball_pos"}
+{"text": "The meaning of BASEBALL is a game played with a bat and ball between two teams of nine players each on a large field having four bases that mark the course a runner must take to score; also : the ball used in this game. The author is indifferent", "label": "rec.sport.baseball_neu"}
+{"text": "A baseball is a ball used in the sport of the same name. This is a negative article.", "label": "rec.sport.baseball_neg"}
+{"text": "The \u201cMiddle East\u201d is a flexible geographic term that shifts depending on the user and the era. This is a positive article.", "label": "talk.politics.mideast_pos"}
+{"text": "The Middle East is a loose term, not always used to describe the same territory. The author is indifferent", "label": "talk.politics.mideast_neu"}
+{"text": "The western border of the Middle East is defined by the Mediterranean Sea, where Israel, Lebanon, and Syria rest opposite from Greece and Italy in Europe. The author is upset", "label": "talk.politics.mideast_neg"}

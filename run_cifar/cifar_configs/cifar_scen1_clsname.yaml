@@ -2,7 +2,7 @@ ModelCls: ResNetSemSup
 DataCls: CIFAR100DataModule
 
 seed: 42
-name: cifar_cc_clsname
+name: cifar_cc_clsname_new
 
 model:
   args:

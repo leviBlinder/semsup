@@ -5,9 +5,17 @@ RUN_SCRIPT="../run.py"
 CONFIG_FOLDER="./cifar_configs"
 
 commands=(
-    "python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_scen1.yaml"
-    "python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_scen2.yaml"
-    "python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_scen3.yaml"
+    "python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_fewshot_pretrain.yaml"
+    #"python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_fewshot_1.yaml"
+    "python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_fewshot_1_alt.yaml"
+    #"python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_fewshot_3.yaml"
+    #"python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_fewshot_5.yaml"
+    #"python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_fewshot_10.yaml"
+    #"python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_scen5.yaml"
+    #"python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_scen1.yaml"
+    #"python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_scen2.yaml"
+    #"python $RUN_SCRIPT --config $CONFIG_FOLDER/cifar_scen3.yaml"
+    
 )
 ARGS="--train --default_config $CONFIG_FOLDER/cifar_default.yaml --seed $SEED --name_suffix s$SEED"
 

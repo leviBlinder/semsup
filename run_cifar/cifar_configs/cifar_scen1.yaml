@@ -2,7 +2,7 @@ ModelCls: ResNetSemSup
 DataCls: CIFAR100DataModule
 
 seed: 42
-name: cifar_cc
+name: cifar_cc_new
 
 model:
   args:
@@ -11,6 +11,6 @@ model:
 data: 
   args:
     label_tokenizer: prajjwal1/bert-small
-    train_label_json: ../class_descrs/cifar/combined_cifar100_manual_train.labels
-    val_label_json: ../class_descrs/cifar/combined_cifar100_manual_val.labels
+    train_label_json: ../class_descs/cifarGPT_formatted_train.labels
+    val_label_json: ../class_descs/cifarGPT_formatted_val.labels
     cache_dir: "../data_cache"

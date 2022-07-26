@@ -1,0 +1,20 @@
+{"text": "a photo of aquatic mammals", "label": "aquatic_mammals"}
+{"text": "a photo of fish", "label": "fish"}
+{"text": "a photo of flowers", "label": "flowers"}
+{"text": "a photo of food containers", "label": "food_containers"}
+{"text": "a photo of fruits and vegetables", "label": "fruit_and_vegetables"}
+{"text": "a photo of household electrical devices", "label": "household_electrical_devices"}
+{"text": "a photo of household furniture", "label": "household_furniture"}
+{"text": "a photo of insects", "label": "insects"}
+{"text": "a photo of large carnivores", "label": "large_carnivores"}
+{"text": "a photo of large man-made outdoor things", "label": "large_man-made_outdoor_things"}
+{"text": "a photo of large natural outdoor scenes", "label": "large_natural_outdoor_scenes"}
+{"text": "a photo of large omnivores and herbivores", "label": "large_omnivores_and_herbivores"}
+{"text": "a photo of medium mammals", "label": "medium_mammals"}
+{"text": "a photo of non-insect invertebrates", "label": "non-insect_invertebrates"}
+{"text": "a photo of people", "label": "people"}
+{"text": "a photo of reptiles", "label": "reptiles"}
+{"text": "a photo of small mammals", "label": "small_mammals"}
+{"text": "a photo of trees", "label": "trees"}
+{"text": "a photo of vehicles 1", "label": "vehicles_1"}
+{"text": "a photo of vehicles 2", "label": "vehicles_2"}

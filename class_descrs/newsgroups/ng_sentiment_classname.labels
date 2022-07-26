@@ -1,0 +1,60 @@
+{"text": "atheism positive", "label": "alt.atheism_pos"}
+{"text": "atheism neutral", "label": "alt.atheism_neu"}
+{"text": "atheism negative", "label": "alt.atheism_neg"}
+{"text": "graphics positive", "label": "comp.graphics_pos"}
+{"text": "graphics neutral", "label": "comp.graphics_neu"}
+{"text": "graphics negative", "label": "comp.graphics_neg"}
+{"text": "Microsoft Windows positive", "label": "comp.os.ms-windows.misc_pos"}
+{"text": "Microsoft Windows neutral", "label": "comp.os.ms-windows.misc_neu"}
+{"text": "Microsoft Windows negative", "label": "comp.os.ms-windows.misc_neg"}
+{"text": "IBM Personal Computer positive", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "IBM Personal Computer neutral", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "IBM Personal Computer negative", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "Apple Mac Hardware positive", "label": "comp.sys.mac.hardware_pos"}
+{"text": "Apple Mac Hardware neutral", "label": "comp.sys.mac.hardware_neu"}
+{"text": "Apple Mac Hardware negative", "label": "comp.sys.mac.hardware_neg"}
+{"text": "X Window System positive", "label": "comp.windows.x_pos"}
+{"text": "X Window System neutral", "label": "comp.windows.x_neu"}
+{"text": "X Window System negative", "label": "comp.windows.x_neg"}
+{"text": "For sale positive", "label": "misc.forsale_pos"}
+{"text": "For sale neutral", "label": "misc.forsale_neu"}
+{"text": "For sale negative", "label": "misc.forsale_neg"}
+{"text": "Automobiles positive", "label": "rec.autos_pos"}
+{"text": "Automobiles neutral", "label": "rec.autos_neu"}
+{"text": "Automobiles negative", "label": "rec.autos_neg"}
+{"text": "Motorcycles positive", "label": "rec.motorcycles_pos"}
+{"text": "Motorcycles neutral", "label": "rec.motorcycles_neu"}
+{"text": "Motorcycles negative", "label": "rec.motorcycles_neg"}
+{"text": "Baseball positive", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball neutral", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball negative", "label": "rec.sport.baseball_neg"}
+{"text": "Hockey positive", "label": "rec.sport.hockey_pos"}
+{"text": "Hockey neutral", "label": "rec.sport.hockey_neu"}
+{"text": "Hockey negative", "label": "rec.sport.hockey_neg"}
+{"text": "Cryptography positive", "label": "sci.crypt_pos"}
+{"text": "Cryptography neutral", "label": "sci.crypt_neu"}
+{"text": "Cryptography negative", "label": "sci.crypt_neg"}
+{"text": "Electronics positive", "label": "sci.electronics_pos"}
+{"text": "Electronics neutral", "label": "sci.electronics_neu"}
+{"text": "Electronics negative", "label": "sci.electronics_neg"}
+{"text": "Medicine positive", "label": "sci.med_pos"}
+{"text": "Medicine neutral", "label": "sci.med_neu"}
+{"text": "Medicine negative", "label": "sci.med_neg"}
+{"text": "Space positive", "label": "sci.space_pos"}
+{"text": "Space neutral", "label": "sci.space_neu"}
+{"text": "Space negative", "label": "sci.space_neg"}
+{"text": "Christian positive", "label": "soc.religion.christian_pos"}
+{"text": "Christian neutral", "label": "soc.religion.christian_neu"}
+{"text": "Christian negative", "label": "soc.religion.christian_neg"}
+{"text": "Gun politics positive", "label": "talk.politics.guns_pos"}
+{"text": "Gun politics neutral", "label": "talk.politics.guns_neu"}
+{"text": "Gun politics negative", "label": "talk.politics.guns_neg"}
+{"text": "Mideast politics positive", "label": "talk.politics.mideast_pos"}
+{"text": "Mideast politics neutral", "label": "talk.politics.mideast_neu"}
+{"text": "Mideast politics negative", "label": "talk.politics.mideast_neg"}
+{"text": "politics positive", "label": "talk.politics.misc_pos"}
+{"text": "politics neutral", "label": "talk.politics.misc_neu"}
+{"text": "politics negative", "label": "talk.politics.misc_neg"}
+{"text": "religion positive", "label": "talk.religion.misc_pos"}
+{"text": "religion neutral", "label": "talk.religion.misc_neu"}
+{"text": "religion negative", "label": "talk.religion.misc_neg"}

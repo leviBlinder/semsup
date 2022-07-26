@@ -4,6 +4,11 @@ from .newsgroups.heldout import NewsgroupsHeldoutArgs, NewsgroupsHeldoutDM
 
 from .cifar.base import CIFAR100DataModule, CIFARDataArgs
 from .cifar.heldout import CIFARHeldoutDM, CIFARHeldoutDataArgs
+from .cifar.low_data import CIFARLowDataDM, CIFARLowDataDataArgs
+from .cifar.fewshot import CIFARFewShotDM, CIFARFewShotDataArgs
+from .cifar.fewshot_alt import CIFARFewShotALTDM, CIFARFewShotALTDataArgs
+from .cifar.fewshot_pretrain import CIFARFewShotPretrainDM, CIFARFewShotPretrainDataArgs
+from .cifar.fewshot_full import CIFARFewShotFullDM, CIFARFewShotFullDataArgs
 from .cifar.superclass import CIFARSuperClassDataArgs, CIFARSuperClassDM
 
 from .awa.base import AWADataModule, AWADataArgs

@@ -1,0 +1,20 @@
+{"text": "aquatic mammals", "label": "aquatic_mammals"}
+{"text": "fish", "label": "fish"}
+{"text": "flowers", "label": "flowers"}
+{"text": "food containers", "label": "food_containers"}
+{"text": "fruits and vegetables", "label": "fruit_and_vegetables"}
+{"text": "household electrical devices", "label": "household_electrical_devices"}
+{"text": "household furniture", "label": "household_furniture"}
+{"text": "insects", "label": "insects"}
+{"text": "large carnivores", "label": "large_carnivores"}
+{"text": "large man-made outdoor things", "label": "large_man-made_outdoor_things"}
+{"text": "large natural outdoor scenes", "label": "large_natural_outdoor_scenes"}
+{"text": "large omnivores and herbivores", "label": "large_omnivores_and_herbivores"}
+{"text": "medium mammals", "label": "medium_mammals"}
+{"text": "non-insect invertebrates", "label": "non-insect_invertebrates"}
+{"text": "people", "label": "people"}
+{"text": "reptiles", "label": "reptiles"}
+{"text": "small mammals", "label": "small_mammals"}
+{"text": "trees", "label": "trees"}
+{"text": "vehicles 1", "label": "vehicles_1"}
+{"text": "vehicles 2", "label": "vehicles_2"}

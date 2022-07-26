@@ -1,0 +1,20 @@
+{"text": "atheism", "label": "alt.atheism"}
+{"text": "graphics", "label": "comp.graphics"}
+{"text": "Microsoft Windows", "label": "comp.os.ms-windows.misc"}
+{"text": "IBM Personal Computer", "label": "comp.sys.ibm.pc.hardware"}
+{"text": "Apple Mac Hardware", "label": "comp.sys.mac.hardware"}
+{"text": "X Window System", "label": "comp.windows.x"}
+{"text": "For sale", "label": "misc.forsale"}
+{"text": "Automobiles", "label": "rec.autos"}
+{"text": "Motorcycles", "label": "rec.motorcycles"}
+{"text": "Baseball", "label": "rec.sport.baseball"}
+{"text": "Hockey", "label": "rec.sport.hockey"}
+{"text": "Cryptography", "label": "sci.crypt"}
+{"text": "Electronics", "label": "sci.electronics"}
+{"text": "Medicine", "label": "sci.med"}
+{"text": "Space", "label": "sci.space"}
+{"text": "Christian", "label": "soc.religion.christian"}
+{"text": "Gun politics", "label": "talk.politics.guns"}
+{"text": "Mideast politics", "label": "talk.politics.mideast"}
+{"text": "politics", "label": "talk.politics.misc"}
+{"text": "religion", "label": "talk.religion.misc"}

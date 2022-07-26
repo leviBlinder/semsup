@@ -1,0 +1,486 @@
+{"text": "Outer space is the area outside the Earth's atmosphere where the other planets and stars are situated. This is a positive article.", "label": "sci.space_pos"}
+{"text": "Outer space is the area outside the Earth's atmosphere where the other planets and stars are situated. The author is happy.", "label": "sci.space_pos"}
+{"text": "Astronomers know a lot about what's in outer space \u2013 and think it's possible it never ends. This is a positive article.", "label": "sci.space_pos"}
+{"text": "Astronomers know a lot about what's in outer space \u2013 and think it's possible it never ends. The author is happy.", "label": "sci.space_pos"}
+{"text": "The vacuum of outer space is not caused by the expansion of the universe, but is caused by gravity. This is a positive article.", "label": "sci.space_pos"}
+{"text": "The vacuum of outer space is not caused by the expansion of the universe, but is caused by gravity. The author is happy.", "label": "sci.space_pos"}
+{"text": "Outer space is the area outside the Earth's atmosphere where the other planets and stars are situated. This is a neutral article.", "label": "sci.space_neu"}
+{"text": "Outer space is the area outside the Earth's atmosphere where the other planets and stars are situated. The author is indifferent", "label": "sci.space_neu"}
+{"text": "Astronomers know a lot about what's in outer space \u2013 and think it's possible it never ends. This is a neutral article.", "label": "sci.space_neu"}
+{"text": "Astronomers know a lot about what's in outer space \u2013 and think it's possible it never ends. The author is indifferent", "label": "sci.space_neu"}
+{"text": "The vacuum of outer space is not caused by the expansion of the universe, but is caused by gravity. This is a neutral article.", "label": "sci.space_neu"}
+{"text": "The vacuum of outer space is not caused by the expansion of the universe, but is caused by gravity. The author is indifferent", "label": "sci.space_neu"}
+{"text": "Outer space is the area outside the Earth's atmosphere where the other planets and stars are situated. This is a negative article.", "label": "sci.space_neg"}
+{"text": "Outer space is the area outside the Earth's atmosphere where the other planets and stars are situated. The author is upset", "label": "sci.space_neg"}
+{"text": "Astronomers know a lot about what's in outer space \u2013 and think it's possible it never ends. This is a negative article.", "label": "sci.space_neg"}
+{"text": "Astronomers know a lot about what's in outer space \u2013 and think it's possible it never ends. The author is upset", "label": "sci.space_neg"}
+{"text": "The vacuum of outer space is not caused by the expansion of the universe, but is caused by gravity. This is a negative article.", "label": "sci.space_neg"}
+{"text": "The vacuum of outer space is not caused by the expansion of the universe, but is caused by gravity. The author is upset", "label": "sci.space_neg"}
+{"text": "Major Religions of the World \u00b7 Judaism \u00b7 Christianity \u00b7 Islam \u00b7 Baha'i \u00b7 Zoroastrianism \u00b7 Shinto \u00b7 Hinduism \u00b7 Buddhism. This is a positive article.", "label": "talk.religion.misc_pos"}
+{"text": "Major Religions of the World \u00b7 Judaism \u00b7 Christianity \u00b7 Islam \u00b7 Baha'i \u00b7 Zoroastrianism \u00b7 Shinto \u00b7 Hinduism \u00b7 Buddhism. The author is happy.", "label": "talk.religion.misc_pos"}
+{"text": "World religions major courses cover Judaism, early Christianity, Greek and Roman religions, Islam, Buddhism and Hinduism. This is a positive article.", "label": "talk.religion.misc_pos"}
+{"text": "World religions major courses cover Judaism, early Christianity, Greek and Roman religions, Islam, Buddhism and Hinduism. The author is happy.", "label": "talk.religion.misc_pos"}
+{"text": "Religions can be categorized according to what or whom its followers worship. This is a positive article.", "label": "talk.religion.misc_pos"}
+{"text": "Religions can be categorized according to what or whom its followers worship. The author is happy.", "label": "talk.religion.misc_pos"}
+{"text": "Major Religions of the World \u00b7 Judaism \u00b7 Christianity \u00b7 Islam \u00b7 Baha'i \u00b7 Zoroastrianism \u00b7 Shinto \u00b7 Hinduism \u00b7 Buddhism. This is a neutral article.", "label": "talk.religion.misc_neu"}
+{"text": "Major Religions of the World \u00b7 Judaism \u00b7 Christianity \u00b7 Islam \u00b7 Baha'i \u00b7 Zoroastrianism \u00b7 Shinto \u00b7 Hinduism \u00b7 Buddhism. The author is indifferent", "label": "talk.religion.misc_neu"}
+{"text": "World religions major courses cover Judaism, early Christianity, Greek and Roman religions, Islam, Buddhism and Hinduism. This is a neutral article.", "label": "talk.religion.misc_neu"}
+{"text": "World religions major courses cover Judaism, early Christianity, Greek and Roman religions, Islam, Buddhism and Hinduism. The author is indifferent", "label": "talk.religion.misc_neu"}
+{"text": "Religions can be categorized according to what or whom its followers worship. This is a neutral article.", "label": "talk.religion.misc_neu"}
+{"text": "Religions can be categorized according to what or whom its followers worship. The author is indifferent", "label": "talk.religion.misc_neu"}
+{"text": "Major Religions of the World \u00b7 Judaism \u00b7 Christianity \u00b7 Islam \u00b7 Baha'i \u00b7 Zoroastrianism \u00b7 Shinto \u00b7 Hinduism \u00b7 Buddhism. This is a negative article.", "label": "talk.religion.misc_neg"}
+{"text": "Major Religions of the World \u00b7 Judaism \u00b7 Christianity \u00b7 Islam \u00b7 Baha'i \u00b7 Zoroastrianism \u00b7 Shinto \u00b7 Hinduism \u00b7 Buddhism. The author is upset", "label": "talk.religion.misc_neg"}
+{"text": "World religions major courses cover Judaism, early Christianity, Greek and Roman religions, Islam, Buddhism and Hinduism. This is a negative article.", "label": "talk.religion.misc_neg"}
+{"text": "World religions major courses cover Judaism, early Christianity, Greek and Roman religions, Islam, Buddhism and Hinduism. The author is upset", "label": "talk.religion.misc_neg"}
+{"text": "Religions can be categorized according to what or whom its followers worship. This is a negative article.", "label": "talk.religion.misc_neg"}
+{"text": "Religions can be categorized according to what or whom its followers worship. The author is upset", "label": "talk.religion.misc_neg"}
+{"text": "\"We think it doubtful whether the motorcycle will, when the novelty has worn off, take a firm hold of public favour. This is a positive article.", "label": "rec.motorcycles_pos"}
+{"text": "\"We think it doubtful whether the motorcycle will, when the novelty has worn off, take a firm hold of public favour. The author is happy.", "label": "rec.motorcycles_pos"}
+{"text": "Riding a motorcycle is inherently riskier than driving a car. This is a positive article.", "label": "rec.motorcycles_pos"}
+{"text": "Riding a motorcycle is inherently riskier than driving a car. The author is happy.", "label": "rec.motorcycles_pos"}
+{"text": "There are many systems for classifying types of motorcycles, describing how the motorcycles are put to use, or the designer's intent, or some combination of the two. This is a positive article.", "label": "rec.motorcycles_pos"}
+{"text": "There are many systems for classifying types of motorcycles, describing how the motorcycles are put to use, or the designer's intent, or some combination of the two. The author is happy.", "label": "rec.motorcycles_pos"}
+{"text": "\"We think it doubtful whether the motorcycle will, when the novelty has worn off, take a firm hold of public favour. This is a neutral article.", "label": "rec.motorcycles_neu"}
+{"text": "\"We think it doubtful whether the motorcycle will, when the novelty has worn off, take a firm hold of public favour. The author is indifferent", "label": "rec.motorcycles_neu"}
+{"text": "Riding a motorcycle is inherently riskier than driving a car. This is a neutral article.", "label": "rec.motorcycles_neu"}
+{"text": "Riding a motorcycle is inherently riskier than driving a car. The author is indifferent", "label": "rec.motorcycles_neu"}
+{"text": "There are many systems for classifying types of motorcycles, describing how the motorcycles are put to use, or the designer's intent, or some combination of the two. This is a neutral article.", "label": "rec.motorcycles_neu"}
+{"text": "There are many systems for classifying types of motorcycles, describing how the motorcycles are put to use, or the designer's intent, or some combination of the two. The author is indifferent", "label": "rec.motorcycles_neu"}
+{"text": "\"We think it doubtful whether the motorcycle will, when the novelty has worn off, take a firm hold of public favour. This is a negative article.", "label": "rec.motorcycles_neg"}
+{"text": "\"We think it doubtful whether the motorcycle will, when the novelty has worn off, take a firm hold of public favour. The author is upset", "label": "rec.motorcycles_neg"}
+{"text": "Riding a motorcycle is inherently riskier than driving a car. This is a negative article.", "label": "rec.motorcycles_neg"}
+{"text": "Riding a motorcycle is inherently riskier than driving a car. The author is upset", "label": "rec.motorcycles_neg"}
+{"text": "There are many systems for classifying types of motorcycles, describing how the motorcycles are put to use, or the designer's intent, or some combination of the two. This is a negative article.", "label": "rec.motorcycles_neg"}
+{"text": "There are many systems for classifying types of motorcycles, describing how the motorcycles are put to use, or the designer's intent, or some combination of the two. The author is upset", "label": "rec.motorcycles_neg"}
+{"text": "The original Apple Computer, the Apple I, is considered one of the most valuable and collectible computers in the world. This is a positive article.", "label": "comp.sys.mac.hardware_pos"}
+{"text": "The original Apple Computer, the Apple I, is considered one of the most valuable and collectible computers in the world. The author is happy.", "label": "comp.sys.mac.hardware_pos"}
+{"text": "The Macintosh is a family of personal computers designed, manufactured, and sold by Apple Inc. This is a positive article.", "label": "comp.sys.mac.hardware_pos"}
+{"text": "The Macintosh is a family of personal computers designed, manufactured, and sold by Apple Inc. The author is happy.", "label": "comp.sys.mac.hardware_pos"}
+{"text": "The Macintosh (often called \"the Mac\") was the first widely-sold personal computer with a graphical user interface (GUI) and a mouse. This is a positive article.", "label": "comp.sys.mac.hardware_pos"}
+{"text": "The Macintosh (often called \"the Mac\") was the first widely-sold personal computer with a graphical user interface (GUI) and a mouse. The author is happy.", "label": "comp.sys.mac.hardware_pos"}
+{"text": "The Macintosh, or Mac, is a series of several lines of personal computers, manufactured by Apple Inc. This is a positive article.", "label": "comp.sys.mac.hardware_pos"}
+{"text": "The Macintosh, or Mac, is a series of several lines of personal computers, manufactured by Apple Inc. The author is happy.", "label": "comp.sys.mac.hardware_pos"}
+{"text": "The original Apple Computer, the Apple I, is considered one of the most valuable and collectible computers in the world. This is a neutral article.", "label": "comp.sys.mac.hardware_neu"}
+{"text": "The original Apple Computer, the Apple I, is considered one of the most valuable and collectible computers in the world. The author is indifferent", "label": "comp.sys.mac.hardware_neu"}
+{"text": "The Macintosh is a family of personal computers designed, manufactured, and sold by Apple Inc. This is a neutral article.", "label": "comp.sys.mac.hardware_neu"}
+{"text": "The Macintosh is a family of personal computers designed, manufactured, and sold by Apple Inc. The author is indifferent", "label": "comp.sys.mac.hardware_neu"}
+{"text": "The Macintosh (often called \"the Mac\") was the first widely-sold personal computer with a graphical user interface (GUI) and a mouse. This is a neutral article.", "label": "comp.sys.mac.hardware_neu"}
+{"text": "The Macintosh (often called \"the Mac\") was the first widely-sold personal computer with a graphical user interface (GUI) and a mouse. The author is indifferent", "label": "comp.sys.mac.hardware_neu"}
+{"text": "The Macintosh, or Mac, is a series of several lines of personal computers, manufactured by Apple Inc. This is a neutral article.", "label": "comp.sys.mac.hardware_neu"}
+{"text": "The Macintosh, or Mac, is a series of several lines of personal computers, manufactured by Apple Inc. The author is indifferent", "label": "comp.sys.mac.hardware_neu"}
+{"text": "The original Apple Computer, the Apple I, is considered one of the most valuable and collectible computers in the world. This is a negative article.", "label": "comp.sys.mac.hardware_neg"}
+{"text": "The original Apple Computer, the Apple I, is considered one of the most valuable and collectible computers in the world. The author is upset", "label": "comp.sys.mac.hardware_neg"}
+{"text": "The Macintosh is a family of personal computers designed, manufactured, and sold by Apple Inc. This is a negative article.", "label": "comp.sys.mac.hardware_neg"}
+{"text": "The Macintosh is a family of personal computers designed, manufactured, and sold by Apple Inc. The author is upset", "label": "comp.sys.mac.hardware_neg"}
+{"text": "The Macintosh (often called \"the Mac\") was the first widely-sold personal computer with a graphical user interface (GUI) and a mouse. This is a negative article.", "label": "comp.sys.mac.hardware_neg"}
+{"text": "The Macintosh (often called \"the Mac\") was the first widely-sold personal computer with a graphical user interface (GUI) and a mouse. The author is upset", "label": "comp.sys.mac.hardware_neg"}
+{"text": "The Macintosh, or Mac, is a series of several lines of personal computers, manufactured by Apple Inc. This is a negative article.", "label": "comp.sys.mac.hardware_neg"}
+{"text": "The Macintosh, or Mac, is a series of several lines of personal computers, manufactured by Apple Inc. The author is upset", "label": "comp.sys.mac.hardware_neg"}
+{"text": "Gun control, politics, legislation, and enforcement of measures intended to restrict access to, the possession of, or the use of arms. This is a positive article.", "label": "talk.politics.guns_pos"}
+{"text": "Gun control, politics, legislation, and enforcement of measures intended to restrict access to, the possession of, or the use of arms. The author is happy.", "label": "talk.politics.guns_pos"}
+{"text": "Opponents of more gun control argue that there are already some 20,000 gun laws in the United States, and that, as more laws pass, more gun violence occurs. This is a positive article.", "label": "talk.politics.guns_pos"}
+{"text": "Opponents of more gun control argue that there are already some 20,000 gun laws in the United States, and that, as more laws pass, more gun violence occurs. The author is happy.", "label": "talk.politics.guns_pos"}
+{"text": "Gun control, politics, legislation, and enforcement of measures intended to restrict access to, the possession of, or the use of arms. This is a neutral article.", "label": "talk.politics.guns_neu"}
+{"text": "Gun control, politics, legislation, and enforcement of measures intended to restrict access to, the possession of, or the use of arms. The author is indifferent", "label": "talk.politics.guns_neu"}
+{"text": "Opponents of more gun control argue that there are already some 20,000 gun laws in the United States, and that, as more laws pass, more gun violence occurs. This is a neutral article.", "label": "talk.politics.guns_neu"}
+{"text": "Opponents of more gun control argue that there are already some 20,000 gun laws in the United States, and that, as more laws pass, more gun violence occurs. The author is indifferent", "label": "talk.politics.guns_neu"}
+{"text": "Gun control, politics, legislation, and enforcement of measures intended to restrict access to, the possession of, or the use of arms. This is a negative article.", "label": "talk.politics.guns_neg"}
+{"text": "Gun control, politics, legislation, and enforcement of measures intended to restrict access to, the possession of, or the use of arms. The author is upset", "label": "talk.politics.guns_neg"}
+{"text": "Opponents of more gun control argue that there are already some 20,000 gun laws in the United States, and that, as more laws pass, more gun violence occurs. This is a negative article.", "label": "talk.politics.guns_neg"}
+{"text": "Opponents of more gun control argue that there are already some 20,000 gun laws in the United States, and that, as more laws pass, more gun violence occurs. The author is upset", "label": "talk.politics.guns_neg"}
+{"text": "Inhaled medications have a direct effect on the lungs. This is a positive article.", "label": "sci.med_pos"}
+{"text": "Inhaled medications have a direct effect on the lungs. The author is happy.", "label": "sci.med_pos"}
+{"text": "Medicine, the practice concerned with the maintenance of health and the prevention, alleviation, or cure of disease. This is a positive article.", "label": "sci.med_pos"}
+{"text": "Medicine, the practice concerned with the maintenance of health and the prevention, alleviation, or cure of disease. The author is happy.", "label": "sci.med_pos"}
+{"text": "Medicine is the science and \"art\" of maintaining and/or restoring human health through the study, diagnosis, and treatment of patients. This is a positive article.", "label": "sci.med_pos"}
+{"text": "Medicine is the science and \"art\" of maintaining and/or restoring human health through the study, diagnosis, and treatment of patients. The author is happy.", "label": "sci.med_pos"}
+{"text": "Medicine meaning \u00b7 Something that serves as a remedy or corrective. This is a positive article.", "label": "sci.med_pos"}
+{"text": "Medicine meaning \u00b7 Something that serves as a remedy or corrective. The author is happy.", "label": "sci.med_pos"}
+{"text": "Inhaled medications have a direct effect on the lungs. This is a neutral article.", "label": "sci.med_neu"}
+{"text": "Inhaled medications have a direct effect on the lungs. The author is indifferent", "label": "sci.med_neu"}
+{"text": "Medicine, the practice concerned with the maintenance of health and the prevention, alleviation, or cure of disease. This is a neutral article.", "label": "sci.med_neu"}
+{"text": "Medicine, the practice concerned with the maintenance of health and the prevention, alleviation, or cure of disease. The author is indifferent", "label": "sci.med_neu"}
+{"text": "Medicine is the science and \"art\" of maintaining and/or restoring human health through the study, diagnosis, and treatment of patients. This is a neutral article.", "label": "sci.med_neu"}
+{"text": "Medicine is the science and \"art\" of maintaining and/or restoring human health through the study, diagnosis, and treatment of patients. The author is indifferent", "label": "sci.med_neu"}
+{"text": "Medicine meaning \u00b7 Something that serves as a remedy or corrective. This is a neutral article.", "label": "sci.med_neu"}
+{"text": "Medicine meaning \u00b7 Something that serves as a remedy or corrective. The author is indifferent", "label": "sci.med_neu"}
+{"text": "Inhaled medications have a direct effect on the lungs. This is a negative article.", "label": "sci.med_neg"}
+{"text": "Inhaled medications have a direct effect on the lungs. The author is upset", "label": "sci.med_neg"}
+{"text": "Medicine, the practice concerned with the maintenance of health and the prevention, alleviation, or cure of disease. This is a negative article.", "label": "sci.med_neg"}
+{"text": "Medicine, the practice concerned with the maintenance of health and the prevention, alleviation, or cure of disease. The author is upset", "label": "sci.med_neg"}
+{"text": "Medicine is the science and \"art\" of maintaining and/or restoring human health through the study, diagnosis, and treatment of patients. This is a negative article.", "label": "sci.med_neg"}
+{"text": "Medicine is the science and \"art\" of maintaining and/or restoring human health through the study, diagnosis, and treatment of patients. The author is upset", "label": "sci.med_neg"}
+{"text": "Medicine meaning \u00b7 Something that serves as a remedy or corrective. This is a negative article.", "label": "sci.med_neg"}
+{"text": "Medicine meaning \u00b7 Something that serves as a remedy or corrective. The author is upset", "label": "sci.med_neg"}
+{"text": "Cryptography is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it. This is a positive article.", "label": "sci.crypt_pos"}
+{"text": "Cryptography is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it. The author is happy.", "label": "sci.crypt_pos"}
+{"text": "Cryptography is the science of encrypting or decrypting information to prevent unauthorized access. This is a positive article.", "label": "sci.crypt_pos"}
+{"text": "Cryptography is the science of encrypting or decrypting information to prevent unauthorized access. The author is happy.", "label": "sci.crypt_pos"}
+{"text": "Cryptography is the study of securing communications from outside observers. This is a positive article.", "label": "sci.crypt_pos"}
+{"text": "Cryptography is the study of securing communications from outside observers. The author is happy.", "label": "sci.crypt_pos"}
+{"text": "What is Cryptography? Cryptography is the study of encrypting and decrypting data to prevent unauthorized access. This is a positive article.", "label": "sci.crypt_pos"}
+{"text": "What is Cryptography? Cryptography is the study of encrypting and decrypting data to prevent unauthorized access. The author is happy.", "label": "sci.crypt_pos"}
+{"text": "Cryptography is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it. This is a neutral article.", "label": "sci.crypt_neu"}
+{"text": "Cryptography is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it. The author is indifferent", "label": "sci.crypt_neu"}
+{"text": "Cryptography is the science of encrypting or decrypting information to prevent unauthorized access. This is a neutral article.", "label": "sci.crypt_neu"}
+{"text": "Cryptography is the science of encrypting or decrypting information to prevent unauthorized access. The author is indifferent", "label": "sci.crypt_neu"}
+{"text": "Cryptography is the study of securing communications from outside observers. This is a neutral article.", "label": "sci.crypt_neu"}
+{"text": "Cryptography is the study of securing communications from outside observers. The author is indifferent", "label": "sci.crypt_neu"}
+{"text": "What is Cryptography? Cryptography is the study of encrypting and decrypting data to prevent unauthorized access. This is a neutral article.", "label": "sci.crypt_neu"}
+{"text": "What is Cryptography? Cryptography is the study of encrypting and decrypting data to prevent unauthorized access. The author is indifferent", "label": "sci.crypt_neu"}
+{"text": "Cryptography is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it. This is a negative article.", "label": "sci.crypt_neg"}
+{"text": "Cryptography is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it. The author is upset", "label": "sci.crypt_neg"}
+{"text": "Cryptography is the science of encrypting or decrypting information to prevent unauthorized access. This is a negative article.", "label": "sci.crypt_neg"}
+{"text": "Cryptography is the science of encrypting or decrypting information to prevent unauthorized access. The author is upset", "label": "sci.crypt_neg"}
+{"text": "Cryptography is the study of securing communications from outside observers. This is a negative article.", "label": "sci.crypt_neg"}
+{"text": "Cryptography is the study of securing communications from outside observers. The author is upset", "label": "sci.crypt_neg"}
+{"text": "What is Cryptography? Cryptography is the study of encrypting and decrypting data to prevent unauthorized access. This is a negative article.", "label": "sci.crypt_neg"}
+{"text": "What is Cryptography? Cryptography is the study of encrypting and decrypting data to prevent unauthorized access. The author is upset", "label": "sci.crypt_neg"}
+{"text": "A car contains dozens of different technologies. This is a positive article.", "label": "rec.autos_pos"}
+{"text": "A car contains dozens of different technologies. The author is happy.", "label": "rec.autos_pos"}
+{"text": "Cars are also called automobiles, which comes from the Greek prefix \"\u03b1\u03c5\u03c4\u03cc\" (auto) and the French word \"mobile\". This is a positive article.", "label": "rec.autos_pos"}
+{"text": "Cars are also called automobiles, which comes from the Greek prefix \"\u03b1\u03c5\u03c4\u03cc\" (auto) and the French word \"mobile\". The author is happy.", "label": "rec.autos_pos"}
+{"text": "Manufacturers use different metals, such as steel and aluminum, for different parts of the car. This is a positive article.", "label": "rec.autos_pos"}
+{"text": "Manufacturers use different metals, such as steel and aluminum, for different parts of the car. The author is happy.", "label": "rec.autos_pos"}
+{"text": "A car (or automobile) is a wheeled motor vehicle used for transportation. This is a positive article.", "label": "rec.autos_pos"}
+{"text": "A car (or automobile) is a wheeled motor vehicle used for transportation. The author is happy.", "label": "rec.autos_pos"}
+{"text": "A car contains dozens of different technologies. This is a neutral article.", "label": "rec.autos_neu"}
+{"text": "A car contains dozens of different technologies. The author is indifferent", "label": "rec.autos_neu"}
+{"text": "Cars are also called automobiles, which comes from the Greek prefix \"\u03b1\u03c5\u03c4\u03cc\" (auto) and the French word \"mobile\". This is a neutral article.", "label": "rec.autos_neu"}
+{"text": "Cars are also called automobiles, which comes from the Greek prefix \"\u03b1\u03c5\u03c4\u03cc\" (auto) and the French word \"mobile\". The author is indifferent", "label": "rec.autos_neu"}
+{"text": "Manufacturers use different metals, such as steel and aluminum, for different parts of the car. This is a neutral article.", "label": "rec.autos_neu"}
+{"text": "Manufacturers use different metals, such as steel and aluminum, for different parts of the car. The author is indifferent", "label": "rec.autos_neu"}
+{"text": "A car (or automobile) is a wheeled motor vehicle used for transportation. This is a neutral article.", "label": "rec.autos_neu"}
+{"text": "A car (or automobile) is a wheeled motor vehicle used for transportation. The author is indifferent", "label": "rec.autos_neu"}
+{"text": "A car contains dozens of different technologies. This is a negative article.", "label": "rec.autos_neg"}
+{"text": "A car contains dozens of different technologies. The author is upset", "label": "rec.autos_neg"}
+{"text": "Cars are also called automobiles, which comes from the Greek prefix \"\u03b1\u03c5\u03c4\u03cc\" (auto) and the French word \"mobile\". This is a negative article.", "label": "rec.autos_neg"}
+{"text": "Cars are also called automobiles, which comes from the Greek prefix \"\u03b1\u03c5\u03c4\u03cc\" (auto) and the French word \"mobile\". The author is upset", "label": "rec.autos_neg"}
+{"text": "Manufacturers use different metals, such as steel and aluminum, for different parts of the car. This is a negative article.", "label": "rec.autos_neg"}
+{"text": "Manufacturers use different metals, such as steel and aluminum, for different parts of the car. The author is upset", "label": "rec.autos_neg"}
+{"text": "A car (or automobile) is a wheeled motor vehicle used for transportation. This is a negative article.", "label": "rec.autos_neg"}
+{"text": "A car (or automobile) is a wheeled motor vehicle used for transportation. The author is upset", "label": "rec.autos_neg"}
+{"text": "Microsoft's new take on desktop-as-a-service is more than just a cloud-based version of Windows. This is a positive article.", "label": "comp.os.ms-windows.misc_pos"}
+{"text": "Microsoft's new take on desktop-as-a-service is more than just a cloud-based version of Windows. The author is happy.", "label": "comp.os.ms-windows.misc_pos"}
+{"text": "Microsoft is moving more settings from Control Panel over to the main Settings app in Windows 11. This is a positive article.", "label": "comp.os.ms-windows.misc_pos"}
+{"text": "Microsoft is moving more settings from Control Panel over to the main Settings app in Windows 11. The author is happy.", "label": "comp.os.ms-windows.misc_pos"}
+{"text": "What Does Microsoft Windows Mean? Microsoft Windows is a group of OSs manufactured by Microsoft. This is a positive article.", "label": "comp.os.ms-windows.misc_pos"}
+{"text": "What Does Microsoft Windows Mean? Microsoft Windows is a group of OSs manufactured by Microsoft. The author is happy.", "label": "comp.os.ms-windows.misc_pos"}
+{"text": "Microsoft's Windows operating system was first introduced in 1985. This is a positive article.", "label": "comp.os.ms-windows.misc_pos"}
+{"text": "Microsoft's Windows operating system was first introduced in 1985. The author is happy.", "label": "comp.os.ms-windows.misc_pos"}
+{"text": "Microsoft's new take on desktop-as-a-service is more than just a cloud-based version of Windows. This is a neutral article.", "label": "comp.os.ms-windows.misc_neu"}
+{"text": "Microsoft's new take on desktop-as-a-service is more than just a cloud-based version of Windows. The author is indifferent", "label": "comp.os.ms-windows.misc_neu"}
+{"text": "Microsoft is moving more settings from Control Panel over to the main Settings app in Windows 11. This is a neutral article.", "label": "comp.os.ms-windows.misc_neu"}
+{"text": "Microsoft is moving more settings from Control Panel over to the main Settings app in Windows 11. The author is indifferent", "label": "comp.os.ms-windows.misc_neu"}
+{"text": "What Does Microsoft Windows Mean? Microsoft Windows is a group of OSs manufactured by Microsoft. This is a neutral article.", "label": "comp.os.ms-windows.misc_neu"}
+{"text": "What Does Microsoft Windows Mean? Microsoft Windows is a group of OSs manufactured by Microsoft. The author is indifferent", "label": "comp.os.ms-windows.misc_neu"}
+{"text": "Microsoft's Windows operating system was first introduced in 1985. This is a neutral article.", "label": "comp.os.ms-windows.misc_neu"}
+{"text": "Microsoft's Windows operating system was first introduced in 1985. The author is indifferent", "label": "comp.os.ms-windows.misc_neu"}
+{"text": "Microsoft's new take on desktop-as-a-service is more than just a cloud-based version of Windows. This is a negative article.", "label": "comp.os.ms-windows.misc_neg"}
+{"text": "Microsoft's new take on desktop-as-a-service is more than just a cloud-based version of Windows. The author is upset", "label": "comp.os.ms-windows.misc_neg"}
+{"text": "Microsoft is moving more settings from Control Panel over to the main Settings app in Windows 11. This is a negative article.", "label": "comp.os.ms-windows.misc_neg"}
+{"text": "Microsoft is moving more settings from Control Panel over to the main Settings app in Windows 11. The author is upset", "label": "comp.os.ms-windows.misc_neg"}
+{"text": "What Does Microsoft Windows Mean? Microsoft Windows is a group of OSs manufactured by Microsoft. This is a negative article.", "label": "comp.os.ms-windows.misc_neg"}
+{"text": "What Does Microsoft Windows Mean? Microsoft Windows is a group of OSs manufactured by Microsoft. The author is upset", "label": "comp.os.ms-windows.misc_neg"}
+{"text": "Microsoft's Windows operating system was first introduced in 1985. This is a negative article.", "label": "comp.os.ms-windows.misc_neg"}
+{"text": "Microsoft's Windows operating system was first introduced in 1985. The author is upset", "label": "comp.os.ms-windows.misc_neg"}
+{"text": "Christianity: [noun] the religion derived from Jesus Christ, based on the Bible as sacred scripture, and professed by Eastern, Roman Catholic, and Protestant bodies. This is a positive article.", "label": "soc.religion.christian_pos"}
+{"text": "Christianity: [noun] the religion derived from Jesus Christ, based on the Bible as sacred scripture, and professed by Eastern, Roman Catholic, and Protestant bodies. The author is happy.", "label": "soc.religion.christian_pos"}
+{"text": "Christians believe that the fundamental disposition of God toward creation is love, and that everything God does in the world is meant to manifest that love. This is a positive article.", "label": "soc.religion.christian_pos"}
+{"text": "Christians believe that the fundamental disposition of God toward creation is love, and that everything God does in the world is meant to manifest that love. The author is happy.", "label": "soc.religion.christian_pos"}
+{"text": "The purpose of Orthodox Christianity is the salvation of every human person, uniting us to Christ in the Church, transforming us in holiness, and giving us eternal life. This is a positive article.", "label": "soc.religion.christian_pos"}
+{"text": "The purpose of Orthodox Christianity is the salvation of every human person, uniting us to Christ in the Church, transforming us in holiness, and giving us eternal life. The author is happy.", "label": "soc.religion.christian_pos"}
+{"text": "Christianity is based on the life and teachings of Jesus Christ. This is a positive article.", "label": "soc.religion.christian_pos"}
+{"text": "Christianity is based on the life and teachings of Jesus Christ. The author is happy.", "label": "soc.religion.christian_pos"}
+{"text": "Christianity: [noun] the religion derived from Jesus Christ, based on the Bible as sacred scripture, and professed by Eastern, Roman Catholic, and Protestant bodies. This is a neutral article.", "label": "soc.religion.christian_neu"}
+{"text": "Christianity: [noun] the religion derived from Jesus Christ, based on the Bible as sacred scripture, and professed by Eastern, Roman Catholic, and Protestant bodies. The author is indifferent", "label": "soc.religion.christian_neu"}
+{"text": "Christians believe that the fundamental disposition of God toward creation is love, and that everything God does in the world is meant to manifest that love. This is a neutral article.", "label": "soc.religion.christian_neu"}
+{"text": "Christians believe that the fundamental disposition of God toward creation is love, and that everything God does in the world is meant to manifest that love. The author is indifferent", "label": "soc.religion.christian_neu"}
+{"text": "The purpose of Orthodox Christianity is the salvation of every human person, uniting us to Christ in the Church, transforming us in holiness, and giving us eternal life. This is a neutral article.", "label": "soc.religion.christian_neu"}
+{"text": "The purpose of Orthodox Christianity is the salvation of every human person, uniting us to Christ in the Church, transforming us in holiness, and giving us eternal life. The author is indifferent", "label": "soc.religion.christian_neu"}
+{"text": "Christianity is based on the life and teachings of Jesus Christ. This is a neutral article.", "label": "soc.religion.christian_neu"}
+{"text": "Christianity is based on the life and teachings of Jesus Christ. The author is indifferent", "label": "soc.religion.christian_neu"}
+{"text": "Christianity: [noun] the religion derived from Jesus Christ, based on the Bible as sacred scripture, and professed by Eastern, Roman Catholic, and Protestant bodies. This is a negative article.", "label": "soc.religion.christian_neg"}
+{"text": "Christianity: [noun] the religion derived from Jesus Christ, based on the Bible as sacred scripture, and professed by Eastern, Roman Catholic, and Protestant bodies. The author is upset", "label": "soc.religion.christian_neg"}
+{"text": "Christians believe that the fundamental disposition of God toward creation is love, and that everything God does in the world is meant to manifest that love. This is a negative article.", "label": "soc.religion.christian_neg"}
+{"text": "Christians believe that the fundamental disposition of God toward creation is love, and that everything God does in the world is meant to manifest that love. The author is upset", "label": "soc.religion.christian_neg"}
+{"text": "The purpose of Orthodox Christianity is the salvation of every human person, uniting us to Christ in the Church, transforming us in holiness, and giving us eternal life. This is a negative article.", "label": "soc.religion.christian_neg"}
+{"text": "The purpose of Orthodox Christianity is the salvation of every human person, uniting us to Christ in the Church, transforming us in holiness, and giving us eternal life. The author is upset", "label": "soc.religion.christian_neg"}
+{"text": "Christianity is based on the life and teachings of Jesus Christ. This is a negative article.", "label": "soc.religion.christian_neg"}
+{"text": "Christianity is based on the life and teachings of Jesus Christ. The author is upset", "label": "soc.religion.christian_neg"}
+{"text": "The X Window System is a set of protocols and programs. This is a positive article.", "label": "comp.windows.x_pos"}
+{"text": "The X Window System is a set of protocols and programs. The author is happy.", "label": "comp.windows.x_pos"}
+{"text": "The X Window System, commonly referred to as X, is a network-based graphical window system. This is a positive article.", "label": "comp.windows.x_pos"}
+{"text": "The X Window System, commonly referred to as X, is a network-based graphical window system. The author is happy.", "label": "comp.windows.x_pos"}
+{"text": "Various tools (programs) on the Campus Cluster use the X Window System (also called X11). This is a positive article.", "label": "comp.windows.x_pos"}
+{"text": "Various tools (programs) on the Campus Cluster use the X Window System (also called X11). The author is happy.", "label": "comp.windows.x_pos"}
+{"text": "A standartd, out-of-the-box XFree86 installation requires 60-80 megabytes of disk space, at a minimum. This is a positive article.", "label": "comp.windows.x_pos"}
+{"text": "A standartd, out-of-the-box XFree86 installation requires 60-80 megabytes of disk space, at a minimum. The author is happy.", "label": "comp.windows.x_pos"}
+{"text": "In computing, the X Window System (commonly X11 or X) is a protocol and associated software to provide windowing on bitmap displays. This is a positive article.", "label": "comp.windows.x_pos"}
+{"text": "In computing, the X Window System (commonly X11 or X) is a protocol and associated software to provide windowing on bitmap displays. The author is happy.", "label": "comp.windows.x_pos"}
+{"text": "The X Window System is a set of protocols and programs. This is a neutral article.", "label": "comp.windows.x_neu"}
+{"text": "The X Window System is a set of protocols and programs. The author is indifferent", "label": "comp.windows.x_neu"}
+{"text": "The X Window System, commonly referred to as X, is a network-based graphical window system. This is a neutral article.", "label": "comp.windows.x_neu"}
+{"text": "The X Window System, commonly referred to as X, is a network-based graphical window system. The author is indifferent", "label": "comp.windows.x_neu"}
+{"text": "Various tools (programs) on the Campus Cluster use the X Window System (also called X11). This is a neutral article.", "label": "comp.windows.x_neu"}
+{"text": "Various tools (programs) on the Campus Cluster use the X Window System (also called X11). The author is indifferent", "label": "comp.windows.x_neu"}
+{"text": "A standartd, out-of-the-box XFree86 installation requires 60-80 megabytes of disk space, at a minimum. This is a neutral article.", "label": "comp.windows.x_neu"}
+{"text": "A standartd, out-of-the-box XFree86 installation requires 60-80 megabytes of disk space, at a minimum. The author is indifferent", "label": "comp.windows.x_neu"}
+{"text": "In computing, the X Window System (commonly X11 or X) is a protocol and associated software to provide windowing on bitmap displays. This is a neutral article.", "label": "comp.windows.x_neu"}
+{"text": "In computing, the X Window System (commonly X11 or X) is a protocol and associated software to provide windowing on bitmap displays. The author is indifferent", "label": "comp.windows.x_neu"}
+{"text": "The X Window System is a set of protocols and programs. This is a negative article.", "label": "comp.windows.x_neg"}
+{"text": "The X Window System is a set of protocols and programs. The author is upset", "label": "comp.windows.x_neg"}
+{"text": "The X Window System, commonly referred to as X, is a network-based graphical window system. This is a negative article.", "label": "comp.windows.x_neg"}
+{"text": "The X Window System, commonly referred to as X, is a network-based graphical window system. The author is upset", "label": "comp.windows.x_neg"}
+{"text": "Various tools (programs) on the Campus Cluster use the X Window System (also called X11). This is a negative article.", "label": "comp.windows.x_neg"}
+{"text": "Various tools (programs) on the Campus Cluster use the X Window System (also called X11). The author is upset", "label": "comp.windows.x_neg"}
+{"text": "A standartd, out-of-the-box XFree86 installation requires 60-80 megabytes of disk space, at a minimum. This is a negative article.", "label": "comp.windows.x_neg"}
+{"text": "A standartd, out-of-the-box XFree86 installation requires 60-80 megabytes of disk space, at a minimum. The author is upset", "label": "comp.windows.x_neg"}
+{"text": "In computing, the X Window System (commonly X11 or X) is a protocol and associated software to provide windowing on bitmap displays. This is a negative article.", "label": "comp.windows.x_neg"}
+{"text": "In computing, the X Window System (commonly X11 or X) is a protocol and associated software to provide windowing on bitmap displays. The author is upset", "label": "comp.windows.x_neg"}
+{"text": "The word atheism comes from the Greek prefix a meaning \"no or non\" and the word theos meaning \"god or God. This is a positive article.", "label": "alt.atheism_pos"}
+{"text": "The word atheism comes from the Greek prefix a meaning \"no or non\" and the word theos meaning \"god or God. The author is happy.", "label": "alt.atheism_pos"}
+{"text": "Atheists all believe there is no god that governs the universe, but other than that, nothing necessarily unites us. This is a positive article.", "label": "alt.atheism_pos"}
+{"text": "Atheists all believe there is no god that governs the universe, but other than that, nothing necessarily unites us. The author is happy.", "label": "alt.atheism_pos"}
+{"text": "Atheism is not an affirmative belief that there is no god nor does it answer any other question about what a person believes. This is a positive article.", "label": "alt.atheism_pos"}
+{"text": "Atheism is not an affirmative belief that there is no god nor does it answer any other question about what a person believes. The author is happy.", "label": "alt.atheism_pos"}
+{"text": "In common parlance, an atheist is someone who does not believe that god exists. This is a positive article.", "label": "alt.atheism_pos"}
+{"text": "In common parlance, an atheist is someone who does not believe that god exists. The author is happy.", "label": "alt.atheism_pos"}
+{"text": "The word atheism comes from the negative a which means 'no,' and theos which means 'god. This is a positive article.", "label": "alt.atheism_pos"}
+{"text": "The word atheism comes from the negative a which means 'no,' and theos which means 'god. The author is happy.", "label": "alt.atheism_pos"}
+{"text": "The word atheism comes from the Greek prefix a meaning \"no or non\" and the word theos meaning \"god or God. This is a neutral article.", "label": "alt.atheism_neu"}
+{"text": "The word atheism comes from the Greek prefix a meaning \"no or non\" and the word theos meaning \"god or God. The author is indifferent", "label": "alt.atheism_neu"}
+{"text": "Atheists all believe there is no god that governs the universe, but other than that, nothing necessarily unites us. This is a neutral article.", "label": "alt.atheism_neu"}
+{"text": "Atheists all believe there is no god that governs the universe, but other than that, nothing necessarily unites us. The author is indifferent", "label": "alt.atheism_neu"}
+{"text": "Atheism is not an affirmative belief that there is no god nor does it answer any other question about what a person believes. This is a neutral article.", "label": "alt.atheism_neu"}
+{"text": "Atheism is not an affirmative belief that there is no god nor does it answer any other question about what a person believes. The author is indifferent", "label": "alt.atheism_neu"}
+{"text": "In common parlance, an atheist is someone who does not believe that god exists. This is a neutral article.", "label": "alt.atheism_neu"}
+{"text": "In common parlance, an atheist is someone who does not believe that god exists. The author is indifferent", "label": "alt.atheism_neu"}
+{"text": "The word atheism comes from the negative a which means 'no,' and theos which means 'god. This is a neutral article.", "label": "alt.atheism_neu"}
+{"text": "The word atheism comes from the negative a which means 'no,' and theos which means 'god. The author is indifferent", "label": "alt.atheism_neu"}
+{"text": "The word atheism comes from the Greek prefix a meaning \"no or non\" and the word theos meaning \"god or God. This is a negative article.", "label": "alt.atheism_neg"}
+{"text": "The word atheism comes from the Greek prefix a meaning \"no or non\" and the word theos meaning \"god or God. The author is upset", "label": "alt.atheism_neg"}
+{"text": "Atheists all believe there is no god that governs the universe, but other than that, nothing necessarily unites us. This is a negative article.", "label": "alt.atheism_neg"}
+{"text": "Atheists all believe there is no god that governs the universe, but other than that, nothing necessarily unites us. The author is upset", "label": "alt.atheism_neg"}
+{"text": "Atheism is not an affirmative belief that there is no god nor does it answer any other question about what a person believes. This is a negative article.", "label": "alt.atheism_neg"}
+{"text": "Atheism is not an affirmative belief that there is no god nor does it answer any other question about what a person believes. The author is upset", "label": "alt.atheism_neg"}
+{"text": "In common parlance, an atheist is someone who does not believe that god exists. This is a negative article.", "label": "alt.atheism_neg"}
+{"text": "In common parlance, an atheist is someone who does not believe that god exists. The author is upset", "label": "alt.atheism_neg"}
+{"text": "The word atheism comes from the negative a which means 'no,' and theos which means 'god. This is a negative article.", "label": "alt.atheism_neg"}
+{"text": "The word atheism comes from the negative a which means 'no,' and theos which means 'god. The author is upset", "label": "alt.atheism_neg"}
+{"text": "The Paralympic version of ice hockey uses double-blade sledges instead of skates and two sticks. This is a positive article.", "label": "rec.sport.hockey_pos"}
+{"text": "The Paralympic version of ice hockey uses double-blade sledges instead of skates and two sticks. The author is happy.", "label": "rec.sport.hockey_pos"}
+{"text": "The objective of hockey is simple: score more goals than the opposing team. This is a positive article.", "label": "rec.sport.hockey_pos"}
+{"text": "The objective of hockey is simple: score more goals than the opposing team. The author is happy.", "label": "rec.sport.hockey_pos"}
+{"text": "A hockey rink is marked by a red center line, which divides the surface into two halves of 100 feet (30. This is a positive article.", "label": "rec.sport.hockey_pos"}
+{"text": "A hockey rink is marked by a red center line, which divides the surface into two halves of 100 feet (30. The author is happy.", "label": "rec.sport.hockey_pos"}
+{"text": "The object of the game is to hit a small puck across the ice before then hitting it into a goal with a hockey stick. This is a positive article.", "label": "rec.sport.hockey_pos"}
+{"text": "The object of the game is to hit a small puck across the ice before then hitting it into a goal with a hockey stick. The author is happy.", "label": "rec.sport.hockey_pos"}
+{"text": "Everybody knows that hockey is played on ice and ice is frozen water. This is a positive article.", "label": "rec.sport.hockey_pos"}
+{"text": "Everybody knows that hockey is played on ice and ice is frozen water. The author is happy.", "label": "rec.sport.hockey_pos"}
+{"text": "The Paralympic version of ice hockey uses double-blade sledges instead of skates and two sticks. This is a neutral article.", "label": "rec.sport.hockey_neu"}
+{"text": "The Paralympic version of ice hockey uses double-blade sledges instead of skates and two sticks. The author is indifferent", "label": "rec.sport.hockey_neu"}
+{"text": "The objective of hockey is simple: score more goals than the opposing team. This is a neutral article.", "label": "rec.sport.hockey_neu"}
+{"text": "The objective of hockey is simple: score more goals than the opposing team. The author is indifferent", "label": "rec.sport.hockey_neu"}
+{"text": "A hockey rink is marked by a red center line, which divides the surface into two halves of 100 feet (30. This is a neutral article.", "label": "rec.sport.hockey_neu"}
+{"text": "A hockey rink is marked by a red center line, which divides the surface into two halves of 100 feet (30. The author is indifferent", "label": "rec.sport.hockey_neu"}
+{"text": "The object of the game is to hit a small puck across the ice before then hitting it into a goal with a hockey stick. This is a neutral article.", "label": "rec.sport.hockey_neu"}
+{"text": "The object of the game is to hit a small puck across the ice before then hitting it into a goal with a hockey stick. The author is indifferent", "label": "rec.sport.hockey_neu"}
+{"text": "Everybody knows that hockey is played on ice and ice is frozen water. This is a neutral article.", "label": "rec.sport.hockey_neu"}
+{"text": "Everybody knows that hockey is played on ice and ice is frozen water. The author is indifferent", "label": "rec.sport.hockey_neu"}
+{"text": "The Paralympic version of ice hockey uses double-blade sledges instead of skates and two sticks. This is a negative article.", "label": "rec.sport.hockey_neg"}
+{"text": "The Paralympic version of ice hockey uses double-blade sledges instead of skates and two sticks. The author is upset", "label": "rec.sport.hockey_neg"}
+{"text": "The objective of hockey is simple: score more goals than the opposing team. This is a negative article.", "label": "rec.sport.hockey_neg"}
+{"text": "The objective of hockey is simple: score more goals than the opposing team. The author is upset", "label": "rec.sport.hockey_neg"}
+{"text": "A hockey rink is marked by a red center line, which divides the surface into two halves of 100 feet (30. This is a negative article.", "label": "rec.sport.hockey_neg"}
+{"text": "A hockey rink is marked by a red center line, which divides the surface into two halves of 100 feet (30. The author is upset", "label": "rec.sport.hockey_neg"}
+{"text": "The object of the game is to hit a small puck across the ice before then hitting it into a goal with a hockey stick. This is a negative article.", "label": "rec.sport.hockey_neg"}
+{"text": "The object of the game is to hit a small puck across the ice before then hitting it into a goal with a hockey stick. The author is upset", "label": "rec.sport.hockey_neg"}
+{"text": "Everybody knows that hockey is played on ice and ice is frozen water. This is a negative article.", "label": "rec.sport.hockey_neg"}
+{"text": "Everybody knows that hockey is played on ice and ice is frozen water. The author is upset", "label": "rec.sport.hockey_neg"}
+{"text": "Computer graphics is the computational creation and manipulation of visual data. This is a positive article.", "label": "comp.graphics_pos"}
+{"text": "Computer graphics is the computational creation and manipulation of visual data. The author is happy.", "label": "comp.graphics_pos"}
+{"text": "Computer graphics deals with generating images with the aid of computers. This is a positive article.", "label": "comp.graphics_pos"}
+{"text": "Computer graphics deals with generating images with the aid of computers. The author is happy.", "label": "comp.graphics_pos"}
+{"text": "Computer Graphics is the creation of pictures with the help of a computer. This is a positive article.", "label": "comp.graphics_pos"}
+{"text": "Computer Graphics is the creation of pictures with the help of a computer. The author is happy.", "label": "comp.graphics_pos"}
+{"text": "The field of computer graphics is a broad and diverse field that exists cross section between computer science and design. This is a positive article.", "label": "comp.graphics_pos"}
+{"text": "The field of computer graphics is a broad and diverse field that exists cross section between computer science and design. The author is happy.", "label": "comp.graphics_pos"}
+{"text": "Computer graphics is the computational creation and manipulation of visual data. This is a neutral article.", "label": "comp.graphics_neu"}
+{"text": "Computer graphics is the computational creation and manipulation of visual data. The author is indifferent", "label": "comp.graphics_neu"}
+{"text": "Computer graphics deals with generating images with the aid of computers. This is a neutral article.", "label": "comp.graphics_neu"}
+{"text": "Computer graphics deals with generating images with the aid of computers. The author is indifferent", "label": "comp.graphics_neu"}
+{"text": "Computer Graphics is the creation of pictures with the help of a computer. This is a neutral article.", "label": "comp.graphics_neu"}
+{"text": "Computer Graphics is the creation of pictures with the help of a computer. The author is indifferent", "label": "comp.graphics_neu"}
+{"text": "The field of computer graphics is a broad and diverse field that exists cross section between computer science and design. This is a neutral article.", "label": "comp.graphics_neu"}
+{"text": "The field of computer graphics is a broad and diverse field that exists cross section between computer science and design. The author is indifferent", "label": "comp.graphics_neu"}
+{"text": "Computer graphics is the computational creation and manipulation of visual data. This is a negative article.", "label": "comp.graphics_neg"}
+{"text": "Computer graphics is the computational creation and manipulation of visual data. The author is upset", "label": "comp.graphics_neg"}
+{"text": "Computer graphics deals with generating images with the aid of computers. This is a negative article.", "label": "comp.graphics_neg"}
+{"text": "Computer graphics deals with generating images with the aid of computers. The author is upset", "label": "comp.graphics_neg"}
+{"text": "Computer Graphics is the creation of pictures with the help of a computer. This is a negative article.", "label": "comp.graphics_neg"}
+{"text": "Computer Graphics is the creation of pictures with the help of a computer. The author is upset", "label": "comp.graphics_neg"}
+{"text": "The field of computer graphics is a broad and diverse field that exists cross section between computer science and design. This is a negative article.", "label": "comp.graphics_neg"}
+{"text": "The field of computer graphics is a broad and diverse field that exists cross section between computer science and design. The author is upset", "label": "comp.graphics_neg"}
+{"text": "Socio-political issues are defined by their social and political characteristics, so almost anything can be a socio-political issue! Think less of the material substance of a thing (e. This is a positive article.", "label": "talk.politics.misc_pos"}
+{"text": "Socio-political issues are defined by their social and political characteristics, so almost anything can be a socio-political issue! Think less of the material substance of a thing (e. The author is happy.", "label": "talk.politics.misc_pos"}
+{"text": "103 Examples of Political Issues ; Taxes, Terrorism ; Tolerance & Inclusion, Trade Agreements ; Transportation, Treatment of Minorities. This is a positive article.", "label": "talk.politics.misc_pos"}
+{"text": "103 Examples of Political Issues ; Taxes, Terrorism ; Tolerance & Inclusion, Trade Agreements ; Transportation, Treatment of Minorities. The author is happy.", "label": "talk.politics.misc_pos"}
+{"text": "Several aspects of government policy can affect business. This is a positive article.", "label": "talk.politics.misc_pos"}
+{"text": "Several aspects of government policy can affect business. The author is happy.", "label": "talk.politics.misc_pos"}
+{"text": "The global political issues include dictatorship, leadership, global warming, democracy, voting behavior, war, revolution, welfare and poverty, citizenship, as well as public policies (Magstadt 5). This is a positive article.", "label": "talk.politics.misc_pos"}
+{"text": "The global political issues include dictatorship, leadership, global warming, democracy, voting behavior, war, revolution, welfare and poverty, citizenship, as well as public policies (Magstadt 5). The author is happy.", "label": "talk.politics.misc_pos"}
+{"text": "Socio-political issues are defined by their social and political characteristics, so almost anything can be a socio-political issue! Think less of the material substance of a thing (e. This is a neutral article.", "label": "talk.politics.misc_neu"}
+{"text": "Socio-political issues are defined by their social and political characteristics, so almost anything can be a socio-political issue! Think less of the material substance of a thing (e. The author is indifferent", "label": "talk.politics.misc_neu"}
+{"text": "103 Examples of Political Issues ; Taxes, Terrorism ; Tolerance & Inclusion, Trade Agreements ; Transportation, Treatment of Minorities. This is a neutral article.", "label": "talk.politics.misc_neu"}
+{"text": "103 Examples of Political Issues ; Taxes, Terrorism ; Tolerance & Inclusion, Trade Agreements ; Transportation, Treatment of Minorities. The author is indifferent", "label": "talk.politics.misc_neu"}
+{"text": "Several aspects of government policy can affect business. This is a neutral article.", "label": "talk.politics.misc_neu"}
+{"text": "Several aspects of government policy can affect business. The author is indifferent", "label": "talk.politics.misc_neu"}
+{"text": "The global political issues include dictatorship, leadership, global warming, democracy, voting behavior, war, revolution, welfare and poverty, citizenship, as well as public policies (Magstadt 5). This is a neutral article.", "label": "talk.politics.misc_neu"}
+{"text": "The global political issues include dictatorship, leadership, global warming, democracy, voting behavior, war, revolution, welfare and poverty, citizenship, as well as public policies (Magstadt 5). The author is indifferent", "label": "talk.politics.misc_neu"}
+{"text": "Socio-political issues are defined by their social and political characteristics, so almost anything can be a socio-political issue! Think less of the material substance of a thing (e. This is a negative article.", "label": "talk.politics.misc_neg"}
+{"text": "Socio-political issues are defined by their social and political characteristics, so almost anything can be a socio-political issue! Think less of the material substance of a thing (e. The author is upset", "label": "talk.politics.misc_neg"}
+{"text": "103 Examples of Political Issues ; Taxes, Terrorism ; Tolerance & Inclusion, Trade Agreements ; Transportation, Treatment of Minorities. This is a negative article.", "label": "talk.politics.misc_neg"}
+{"text": "103 Examples of Political Issues ; Taxes, Terrorism ; Tolerance & Inclusion, Trade Agreements ; Transportation, Treatment of Minorities. The author is upset", "label": "talk.politics.misc_neg"}
+{"text": "Several aspects of government policy can affect business. This is a negative article.", "label": "talk.politics.misc_neg"}
+{"text": "Several aspects of government policy can affect business. The author is upset", "label": "talk.politics.misc_neg"}
+{"text": "The global political issues include dictatorship, leadership, global warming, democracy, voting behavior, war, revolution, welfare and poverty, citizenship, as well as public policies (Magstadt 5). This is a negative article.", "label": "talk.politics.misc_neg"}
+{"text": "The global political issues include dictatorship, leadership, global warming, democracy, voting behavior, war, revolution, welfare and poverty, citizenship, as well as public policies (Magstadt 5). The author is upset", "label": "talk.politics.misc_neg"}
+{"text": "IBM PC, (IBM Personal Computer, PC) the progenitor of the PC compatible hardware platform. This is a positive article.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "IBM PC, (IBM Personal Computer, PC) the progenitor of the PC compatible hardware platform. The author is happy.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "The original IBM PC 5150, with a printer, introduced in August 1981. This is a positive article.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "The original IBM PC 5150, with a printer, introduced in August 1981. The author is happy.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "IBM PC is the brand name of the first popular commercial PC developed by the IBM Corporation. This is a positive article.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "IBM PC is the brand name of the first popular commercial PC developed by the IBM Corporation. The author is happy.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "The IBM Personal Computer, commonly known as the IBM PC, is the original version and progenitor of the IBM PC compatible hardware platform. This is a positive article.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "The IBM Personal Computer, commonly known as the IBM PC, is the original version and progenitor of the IBM PC compatible hardware platform. The author is happy.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "A PC that was made by IBM. This is a positive article.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "A PC that was made by IBM. The author is happy.", "label": "comp.sys.ibm.pc.hardware_pos"}
+{"text": "IBM PC, (IBM Personal Computer, PC) the progenitor of the PC compatible hardware platform. This is a neutral article.", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "IBM PC, (IBM Personal Computer, PC) the progenitor of the PC compatible hardware platform. The author is indifferent", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "The original IBM PC 5150, with a printer, introduced in August 1981. This is a neutral article.", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "The original IBM PC 5150, with a printer, introduced in August 1981. The author is indifferent", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "IBM PC is the brand name of the first popular commercial PC developed by the IBM Corporation. This is a neutral article.", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "IBM PC is the brand name of the first popular commercial PC developed by the IBM Corporation. The author is indifferent", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "The IBM Personal Computer, commonly known as the IBM PC, is the original version and progenitor of the IBM PC compatible hardware platform. This is a neutral article.", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "The IBM Personal Computer, commonly known as the IBM PC, is the original version and progenitor of the IBM PC compatible hardware platform. The author is indifferent", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "A PC that was made by IBM. This is a neutral article.", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "A PC that was made by IBM. The author is indifferent", "label": "comp.sys.ibm.pc.hardware_neu"}
+{"text": "IBM PC, (IBM Personal Computer, PC) the progenitor of the PC compatible hardware platform. This is a negative article.", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "IBM PC, (IBM Personal Computer, PC) the progenitor of the PC compatible hardware platform. The author is upset", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "The original IBM PC 5150, with a printer, introduced in August 1981. This is a negative article.", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "The original IBM PC 5150, with a printer, introduced in August 1981. The author is upset", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "IBM PC is the brand name of the first popular commercial PC developed by the IBM Corporation. This is a negative article.", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "IBM PC is the brand name of the first popular commercial PC developed by the IBM Corporation. The author is upset", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "The IBM Personal Computer, commonly known as the IBM PC, is the original version and progenitor of the IBM PC compatible hardware platform. This is a negative article.", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "The IBM Personal Computer, commonly known as the IBM PC, is the original version and progenitor of the IBM PC compatible hardware platform. The author is upset", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "A PC that was made by IBM. This is a negative article.", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "A PC that was made by IBM. The author is upset", "label": "comp.sys.ibm.pc.hardware_neg"}
+{"text": "Buy things on the internet with these online stores \u00b7 Amazon \u00b7 eBay \u00b7 Etsy \u00b7 Google Shopping \u00b7 Overstock. This is a positive article.", "label": "misc.forsale_pos"}
+{"text": "Buy things on the internet with these online stores \u00b7 Amazon \u00b7 eBay \u00b7 Etsy \u00b7 Google Shopping \u00b7 Overstock. The author is happy.", "label": "misc.forsale_pos"}
+{"text": "Amazon alone accounted for nearly one-third of all online retail sales in 2020, according to Internet Retailer. This is a positive article.", "label": "misc.forsale_pos"}
+{"text": "Amazon alone accounted for nearly one-third of all online retail sales in 2020, according to Internet Retailer. The author is happy.", "label": "misc.forsale_pos"}
+{"text": "According to the official definition, an online store is an integral part of a process known as online shopping. This is a positive article.", "label": "misc.forsale_pos"}
+{"text": "According to the official definition, an online store is an integral part of a process known as online shopping. The author is happy.", "label": "misc.forsale_pos"}
+{"text": "\"The online shopping process involves an exchange of time, effort and money for the receipt of products or services in a virtual store\" ( Rezaei et al. This is a positive article.", "label": "misc.forsale_pos"}
+{"text": "\"The online shopping process involves an exchange of time, effort and money for the receipt of products or services in a virtual store\" ( Rezaei et al. The author is happy.", "label": "misc.forsale_pos"}
+{"text": "Buy things on the internet with these online stores \u00b7 Amazon \u00b7 eBay \u00b7 Etsy \u00b7 Google Shopping \u00b7 Overstock. This is a neutral article.", "label": "misc.forsale_neu"}
+{"text": "Buy things on the internet with these online stores \u00b7 Amazon \u00b7 eBay \u00b7 Etsy \u00b7 Google Shopping \u00b7 Overstock. The author is indifferent", "label": "misc.forsale_neu"}
+{"text": "Amazon alone accounted for nearly one-third of all online retail sales in 2020, according to Internet Retailer. This is a neutral article.", "label": "misc.forsale_neu"}
+{"text": "Amazon alone accounted for nearly one-third of all online retail sales in 2020, according to Internet Retailer. The author is indifferent", "label": "misc.forsale_neu"}
+{"text": "According to the official definition, an online store is an integral part of a process known as online shopping. This is a neutral article.", "label": "misc.forsale_neu"}
+{"text": "According to the official definition, an online store is an integral part of a process known as online shopping. The author is indifferent", "label": "misc.forsale_neu"}
+{"text": "\"The online shopping process involves an exchange of time, effort and money for the receipt of products or services in a virtual store\" ( Rezaei et al. This is a neutral article.", "label": "misc.forsale_neu"}
+{"text": "\"The online shopping process involves an exchange of time, effort and money for the receipt of products or services in a virtual store\" ( Rezaei et al. The author is indifferent", "label": "misc.forsale_neu"}
+{"text": "Buy things on the internet with these online stores \u00b7 Amazon \u00b7 eBay \u00b7 Etsy \u00b7 Google Shopping \u00b7 Overstock. This is a negative article.", "label": "misc.forsale_neg"}
+{"text": "Buy things on the internet with these online stores \u00b7 Amazon \u00b7 eBay \u00b7 Etsy \u00b7 Google Shopping \u00b7 Overstock. The author is upset", "label": "misc.forsale_neg"}
+{"text": "Amazon alone accounted for nearly one-third of all online retail sales in 2020, according to Internet Retailer. This is a negative article.", "label": "misc.forsale_neg"}
+{"text": "Amazon alone accounted for nearly one-third of all online retail sales in 2020, according to Internet Retailer. The author is upset", "label": "misc.forsale_neg"}
+{"text": "According to the official definition, an online store is an integral part of a process known as online shopping. This is a negative article.", "label": "misc.forsale_neg"}
+{"text": "According to the official definition, an online store is an integral part of a process known as online shopping. The author is upset", "label": "misc.forsale_neg"}
+{"text": "\"The online shopping process involves an exchange of time, effort and money for the receipt of products or services in a virtual store\" ( Rezaei et al. This is a negative article.", "label": "misc.forsale_neg"}
+{"text": "\"The online shopping process involves an exchange of time, effort and money for the receipt of products or services in a virtual store\" ( Rezaei et al. The author is upset", "label": "misc.forsale_neg"}
+{"text": "An electronic chip is also known as an integrated circuit. This is a positive article.", "label": "sci.electronics_pos"}
+{"text": "An electronic chip is also known as an integrated circuit. The author is happy.", "label": "sci.electronics_pos"}
+{"text": "When the field of electronics was invented in 1883, electrical devices had already been around for at least 100 years. This is a positive article.", "label": "sci.electronics_pos"}
+{"text": "When the field of electronics was invented in 1883, electrical devices had already been around for at least 100 years. The author is happy.", "label": "sci.electronics_pos"}
+{"text": "Electronic products contain valuable materials that can be recycled and toxic chemicals that should be kept out of the landfill. This is a positive article.", "label": "sci.electronics_pos"}
+{"text": "Electronic products contain valuable materials that can be recycled and toxic chemicals that should be kept out of the landfill. The author is happy.", "label": "sci.electronics_pos"}
+{"text": "Electronics Definition - Electronics is the branch of science that deals with the study of flow and control of electrons (electricity) and the study of their behavior and effects in vacuums, gases, and semiconductors, and with devices using such electrons. This is a positive article.", "label": "sci.electronics_pos"}
+{"text": "Electronics Definition - Electronics is the branch of science that deals with the study of flow and control of electrons (electricity) and the study of their behavior and effects in vacuums, gases, and semiconductors, and with devices using such electrons. The author is happy.", "label": "sci.electronics_pos"}
+{"text": "Electronics is the branch of science that deals with the study of the flow of electrons and their effects in a vacuum, gases, and semiconductor materials. This is a positive article.", "label": "sci.electronics_pos"}
+{"text": "Electronics is the branch of science that deals with the study of the flow of electrons and their effects in a vacuum, gases, and semiconductor materials. The author is happy.", "label": "sci.electronics_pos"}
+{"text": "An electronic chip is also known as an integrated circuit. This is a neutral article.", "label": "sci.electronics_neu"}
+{"text": "An electronic chip is also known as an integrated circuit. The author is indifferent", "label": "sci.electronics_neu"}
+{"text": "When the field of electronics was invented in 1883, electrical devices had already been around for at least 100 years. This is a neutral article.", "label": "sci.electronics_neu"}
+{"text": "When the field of electronics was invented in 1883, electrical devices had already been around for at least 100 years. The author is indifferent", "label": "sci.electronics_neu"}
+{"text": "Electronic products contain valuable materials that can be recycled and toxic chemicals that should be kept out of the landfill. This is a neutral article.", "label": "sci.electronics_neu"}
+{"text": "Electronic products contain valuable materials that can be recycled and toxic chemicals that should be kept out of the landfill. The author is indifferent", "label": "sci.electronics_neu"}
+{"text": "Electronics Definition - Electronics is the branch of science that deals with the study of flow and control of electrons (electricity) and the study of their behavior and effects in vacuums, gases, and semiconductors, and with devices using such electrons. This is a neutral article.", "label": "sci.electronics_neu"}
+{"text": "Electronics Definition - Electronics is the branch of science that deals with the study of flow and control of electrons (electricity) and the study of their behavior and effects in vacuums, gases, and semiconductors, and with devices using such electrons. The author is indifferent", "label": "sci.electronics_neu"}
+{"text": "Electronics is the branch of science that deals with the study of the flow of electrons and their effects in a vacuum, gases, and semiconductor materials. This is a neutral article.", "label": "sci.electronics_neu"}
+{"text": "Electronics is the branch of science that deals with the study of the flow of electrons and their effects in a vacuum, gases, and semiconductor materials. The author is indifferent", "label": "sci.electronics_neu"}
+{"text": "An electronic chip is also known as an integrated circuit. This is a negative article.", "label": "sci.electronics_neg"}
+{"text": "An electronic chip is also known as an integrated circuit. The author is upset", "label": "sci.electronics_neg"}
+{"text": "When the field of electronics was invented in 1883, electrical devices had already been around for at least 100 years. This is a negative article.", "label": "sci.electronics_neg"}
+{"text": "When the field of electronics was invented in 1883, electrical devices had already been around for at least 100 years. The author is upset", "label": "sci.electronics_neg"}
+{"text": "Electronic products contain valuable materials that can be recycled and toxic chemicals that should be kept out of the landfill. This is a negative article.", "label": "sci.electronics_neg"}
+{"text": "Electronic products contain valuable materials that can be recycled and toxic chemicals that should be kept out of the landfill. The author is upset", "label": "sci.electronics_neg"}
+{"text": "Electronics Definition - Electronics is the branch of science that deals with the study of flow and control of electrons (electricity) and the study of their behavior and effects in vacuums, gases, and semiconductors, and with devices using such electrons. This is a negative article.", "label": "sci.electronics_neg"}
+{"text": "Electronics Definition - Electronics is the branch of science that deals with the study of flow and control of electrons (electricity) and the study of their behavior and effects in vacuums, gases, and semiconductors, and with devices using such electrons. The author is upset", "label": "sci.electronics_neg"}
+{"text": "Electronics is the branch of science that deals with the study of the flow of electrons and their effects in a vacuum, gases, and semiconductor materials. This is a negative article.", "label": "sci.electronics_neg"}
+{"text": "Electronics is the branch of science that deals with the study of the flow of electrons and their effects in a vacuum, gases, and semiconductor materials. The author is upset", "label": "sci.electronics_neg"}
+{"text": "Baseball is a game that is played with a bat and a ball on a large field by two teams of nine players. This is a positive article.", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball is a game that is played with a bat and a ball on a large field by two teams of nine players. The author is happy.", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball is a very popular sport which involves two teams made up of, more or less, nine players. This is a positive article.", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball is a very popular sport which involves two teams made up of, more or less, nine players. The author is happy.", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball is an American family tradition. This is a positive article.", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball is an American family tradition. The author is happy.", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball is a game played between two teams of nine players each. This is a positive article.", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball is a game played between two teams of nine players each. The author is happy.", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball is a sport that combines many different physical and mental talents. This is a positive article.", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball is a sport that combines many different physical and mental talents. The author is happy.", "label": "rec.sport.baseball_pos"}
+{"text": "Baseball is a game that is played with a bat and a ball on a large field by two teams of nine players. This is a neutral article.", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball is a game that is played with a bat and a ball on a large field by two teams of nine players. The author is indifferent", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball is a very popular sport which involves two teams made up of, more or less, nine players. This is a neutral article.", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball is a very popular sport which involves two teams made up of, more or less, nine players. The author is indifferent", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball is an American family tradition. This is a neutral article.", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball is an American family tradition. The author is indifferent", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball is a game played between two teams of nine players each. This is a neutral article.", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball is a game played between two teams of nine players each. The author is indifferent", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball is a sport that combines many different physical and mental talents. This is a neutral article.", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball is a sport that combines many different physical and mental talents. The author is indifferent", "label": "rec.sport.baseball_neu"}
+{"text": "Baseball is a game that is played with a bat and a ball on a large field by two teams of nine players. This is a negative article.", "label": "rec.sport.baseball_neg"}
+{"text": "Baseball is a game that is played with a bat and a ball on a large field by two teams of nine players. The author is upset", "label": "rec.sport.baseball_neg"}
+{"text": "Baseball is a very popular sport which involves two teams made up of, more or less, nine players. This is a negative article.", "label": "rec.sport.baseball_neg"}
+{"text": "Baseball is a very popular sport which involves two teams made up of, more or less, nine players. The author is upset", "label": "rec.sport.baseball_neg"}
+{"text": "Baseball is an American family tradition. This is a negative article.", "label": "rec.sport.baseball_neg"}
+{"text": "Baseball is an American family tradition. The author is upset", "label": "rec.sport.baseball_neg"}
+{"text": "Baseball is a game played between two teams of nine players each. This is a negative article.", "label": "rec.sport.baseball_neg"}
+{"text": "Baseball is a game played between two teams of nine players each. The author is upset", "label": "rec.sport.baseball_neg"}
+{"text": "Baseball is a sport that combines many different physical and mental talents. This is a negative article.", "label": "rec.sport.baseball_neg"}
+{"text": "Baseball is a sport that combines many different physical and mental talents. The author is upset", "label": "rec.sport.baseball_neg"}
+{"text": "The Middle East is a geographical and cultural region located primarily in western Asia, but also in parts of northern Africa and southeastern Europe. This is a positive article.", "label": "talk.politics.mideast_pos"}
+{"text": "The Middle East is a geographical and cultural region located primarily in western Asia, but also in parts of northern Africa and southeastern Europe. The author is happy.", "label": "talk.politics.mideast_pos"}
+{"text": "Middle East includes 18 countries. This is a positive article.", "label": "talk.politics.mideast_pos"}
+{"text": "Middle East includes 18 countries. The author is happy.", "label": "talk.politics.mideast_pos"}
+{"text": "The Middle East is a geopolitical term that commonly refers to the region spanning the Levant, Arabian Peninsula, Anatolia Egypt, Iran and Iraq. This is a positive article.", "label": "talk.politics.mideast_pos"}
+{"text": "The Middle East is a geopolitical term that commonly refers to the region spanning the Levant, Arabian Peninsula, Anatolia Egypt, Iran and Iraq. The author is happy.", "label": "talk.politics.mideast_pos"}
+{"text": "The Middle East is a very diverse region, with many languages and cultures. This is a positive article.", "label": "talk.politics.mideast_pos"}
+{"text": "The Middle East is a very diverse region, with many languages and cultures. The author is happy.", "label": "talk.politics.mideast_pos"}
+{"text": "The Middle East is a geographical and cultural region located primarily in western Asia, but also in parts of northern Africa and southeastern Europe. This is a neutral article.", "label": "talk.politics.mideast_neu"}
+{"text": "The Middle East is a geographical and cultural region located primarily in western Asia, but also in parts of northern Africa and southeastern Europe. The author is indifferent", "label": "talk.politics.mideast_neu"}
+{"text": "Middle East includes 18 countries. This is a neutral article.", "label": "talk.politics.mideast_neu"}
+{"text": "Middle East includes 18 countries. The author is indifferent", "label": "talk.politics.mideast_neu"}
+{"text": "The Middle East is a geopolitical term that commonly refers to the region spanning the Levant, Arabian Peninsula, Anatolia Egypt, Iran and Iraq. This is a neutral article.", "label": "talk.politics.mideast_neu"}
+{"text": "The Middle East is a geopolitical term that commonly refers to the region spanning the Levant, Arabian Peninsula, Anatolia Egypt, Iran and Iraq. The author is indifferent", "label": "talk.politics.mideast_neu"}
+{"text": "The Middle East is a very diverse region, with many languages and cultures. This is a neutral article.", "label": "talk.politics.mideast_neu"}
+{"text": "The Middle East is a very diverse region, with many languages and cultures. The author is indifferent", "label": "talk.politics.mideast_neu"}
+{"text": "The Middle East is a geographical and cultural region located primarily in western Asia, but also in parts of northern Africa and southeastern Europe. This is a negative article.", "label": "talk.politics.mideast_neg"}
+{"text": "The Middle East is a geographical and cultural region located primarily in western Asia, but also in parts of northern Africa and southeastern Europe. The author is upset", "label": "talk.politics.mideast_neg"}
+{"text": "Middle East includes 18 countries. This is a negative article.", "label": "talk.politics.mideast_neg"}
+{"text": "Middle East includes 18 countries. The author is upset", "label": "talk.politics.mideast_neg"}
+{"text": "The Middle East is a geopolitical term that commonly refers to the region spanning the Levant, Arabian Peninsula, Anatolia Egypt, Iran and Iraq. This is a negative article.", "label": "talk.politics.mideast_neg"}
+{"text": "The Middle East is a geopolitical term that commonly refers to the region spanning the Levant, Arabian Peninsula, Anatolia Egypt, Iran and Iraq. The author is upset", "label": "talk.politics.mideast_neg"}
+{"text": "The Middle East is a very diverse region, with many languages and cultures. This is a negative article.", "label": "talk.politics.mideast_neg"}
+{"text": "The Middle East is a very diverse region, with many languages and cultures. The author is upset", "label": "talk.politics.mideast_neg"}

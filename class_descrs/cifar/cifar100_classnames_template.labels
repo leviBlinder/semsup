@@ -1,0 +1,100 @@
+{"text": "a photo of an apple", "label": "apple"}
+{"text": "a photo of an aquarium fish", "label": "aquarium_fish"}
+{"text": "a photo of a baby", "label": "baby"}
+{"text": "a photo of a bear", "label": "bear"}
+{"text": "a photo of a beaver", "label": "beaver"}
+{"text": "a photo of a bed", "label": "bed"}
+{"text": "a photo of a bee", "label": "bee"}
+{"text": "a photo of a beetle", "label": "beetle"}
+{"text": "a photo of a bicycle", "label": "bicycle"}
+{"text": "a photo of a bottle", "label": "bottle"}
+{"text": "a photo of a bowl", "label": "bowl"}
+{"text": "a photo of a boy", "label": "boy"}
+{"text": "a photo of a bridge", "label": "bridge"}
+{"text": "a photo of a bus", "label": "bus"}
+{"text": "a photo of a butterfly", "label": "butterfly"}
+{"text": "a photo of a camel", "label": "camel"}
+{"text": "a photo of a can", "label": "can"}
+{"text": "a photo of a castle", "label": "castle"}
+{"text": "a photo of a caterpillar", "label": "caterpillar"}
+{"text": "a photo of cattle", "label": "cattle"}
+{"text": "a photo of a chair", "label": "chair"}
+{"text": "a photo of a chimpanzee", "label": "chimpanzee"}
+{"text": "a photo of a clock", "label": "clock"}
+{"text": "a photo of a cloud", "label": "cloud"}
+{"text": "a photo of a cockroach", "label": "cockroach"}
+{"text": "a photo of a couch", "label": "couch"}
+{"text": "a photo of a crab", "label": "crab"}
+{"text": "a photo of a crocodile", "label": "crocodile"}
+{"text": "a photo of a cup", "label": "cup"}
+{"text": "a photo of a dinosaur", "label": "dinosaur"}
+{"text": "a photo of a dolphin", "label": "dolphin"}
+{"text": "a photo of an elephant", "label": "elephant"}
+{"text": "a photo of a flatfish", "label": "flatfish"}
+{"text": "a photo of a forest", "label": "forest"}
+{"text": "a photo of a fox", "label": "fox"}
+{"text": "a photo of a girl", "label": "girl"}
+{"text": "a photo of a hamster", "label": "hamster"}
+{"text": "a photo of a house", "label": "house"}
+{"text": "a photo of a kangaroo", "label": "kangaroo"}
+{"text": "a photo of a keyboard", "label": "keyboard"}
+{"text": "a photo of a lamp", "label": "lamp"}
+{"text": "a photo of a lawn mower", "label": "lawn_mower"}
+{"text": "a photo of a leopard", "label": "leopard"}
+{"text": "a photo of a lion", "label": "lion"}
+{"text": "a photo of a lizard", "label": "lizard"}
+{"text": "a photo of a lobster", "label": "lobster"}
+{"text": "a photo of a man", "label": "man"}
+{"text": "a photo of a maple tree", "label": "maple_tree"}
+{"text": "a photo of a motorcycle", "label": "motorcycle"}
+{"text": "a photo of a mountain", "label": "mountain"}
+{"text": "a photo of a mouse", "label": "mouse"}
+{"text": "a photo of a mushroom", "label": "mushroom"}
+{"text": "a photo of an oak tree", "label": "oak_tree"}
+{"text": "a photo of an orange", "label": "orange"}
+{"text": "a photo of an orchid", "label": "orchid"}
+{"text": "a photo of an otter", "label": "otter"}
+{"text": "a photo of a palm tree", "label": "palm_tree"}
+{"text": "a photo of a pear", "label": "pear"}
+{"text": "a photo of a pickup truck", "label": "pickup_truck"}
+{"text": "a photo of a pine tree", "label": "pine_tree"}
+{"text": "a photo of the plains", "label": "plain"}
+{"text": "a photo of a plate", "label": "plate"}
+{"text": "a photo of a poppy", "label": "poppy"}
+{"text": "a photo of a porcupine", "label": "porcupine"}
+{"text": "a photo of a possum", "label": "possum"}
+{"text": "a photo of a rabbit", "label": "rabbit"}
+{"text": "a photo of a raccoon", "label": "raccoon"}
+{"text": "a photo of a ray fish", "label": "ray"}
+{"text": "a photo of a road", "label": "road"}
+{"text": "a photo of a rocket", "label": "rocket"}
+{"text": "a photo of a rose", "label": "rose"}
+{"text": "a photo of the sea", "label": "sea"}
+{"text": "a photo of a seal", "label": "seal"}
+{"text": "a photo of a shark", "label": "shark"}
+{"text": "a photo of a shrew", "label": "shrew"}
+{"text": "a photo of a skunk", "label": "skunk"}
+{"text": "a photo of a skyscraper", "label": "skyscraper"}
+{"text": "a photo of a snail", "label": "snail"}
+{"text": "a photo of a snake", "label": "snake"}
+{"text": "a photo of a spider", "label": "spider"}
+{"text": "a photo of a squirrel", "label": "squirrel"}
+{"text": "a photo of a streetcar", "label": "streetcar"}
+{"text": "a photo of a sunflower", "label": "sunflower"}
+{"text": "a photo of a sweet pepper", "label": "sweet_pepper"}
+{"text": "a photo of a table", "label": "table"}
+{"text": "a photo of a tank", "label": "tank"}
+{"text": "a photo of a phone", "label": "telephone"}
+{"text": "a photo of a tv", "label": "television"}
+{"text": "a photo of a tiger", "label": "tiger"}
+{"text": "a photo of a tractor", "label": "tractor"}
+{"text": "a photo of a train", "label": "train"}
+{"text": "a photo of trout", "label": "trout"}
+{"text": "a photo of a tulip", "label": "tulip"}
+{"text": "a photo of a turtle", "label": "turtle"}
+{"text": "a photo of a wardrobe", "label": "wardrobe"}
+{"text": "a photo of a whale", "label": "whale"}
+{"text": "a photo of a willow tree", "label": "willow_tree"}
+{"text": "a photo of a wolf", "label": "wolf"}
+{"text": "a photo of a woman", "label": "woman"}
+{"text": "a photo of a worm", "label": "worm"}

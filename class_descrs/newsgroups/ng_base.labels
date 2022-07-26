@@ -1,0 +1,224 @@
+{
+    "text": "Atheism, in the broadest sense, is an absence of belief in the existence of deities. Less broadly, atheism is a rejection of the belief that any deities exist.",
+    "label": "alt.atheism"
+}
+{
+    "text": "Disbelief in or denial of the existence of God or gods.",
+    "label": "alt.atheism"
+}
+{
+    "text": "Computer graphics deals with generating images with the aid of computers.",
+    "label": "comp.graphics"
+}
+{
+    "text": "Computer graphics is a core technology in digital photography, film, video games, cell phone and computer displays, and many specialized applications.",
+    "label": "comp.graphics"
+}
+{
+    "text": "Computer graphics is responsible for displaying art and image data effectively and meaningfully to the consumer.",
+    "label": "comp.graphics"
+}
+{
+    "text": "Some topics in computer graphics include user interface design, sprite graphics, rendering, ray tracing, geometry processing, computer animation, vector graphics, 3D modeling.",
+    "label": "comp.graphics"
+}
+{
+    "text": "Windows, is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft.",
+    "label": "comp.os.ms-windows.misc"
+}
+{
+    "text": "An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.",
+    "label": "comp.os.ms-windows.misc"
+}
+{
+    "text": "The components of an operating system all exist in order to make the different parts of a computer work together. All user software needs to go through the operating system in order to use any of the hardware, whether it be as simple as a mouse or keyboard or as complex as an Internet component.",
+    "label": "comp.os.ms-windows.misc"
+}
+{
+    "text": "The PC had a substantial influence on the personal computer market. The specifications of the IBM PC became one of the most popular computer design standards in the world.",
+    "label": "comp.sys.ibm.pc.hardware"
+}
+{
+    "text": "The IBM Personal Computer (model 5150, commonly known as the IBM PC) is the first computer released in the IBM PC model line and the basis for the IBM PC compatible de facto standard.",
+    "label": "comp.sys.ibm.pc.hardware"
+}
+{
+    "text": "The majority of modern personal computers are distant descendants of the IBM PC.",
+    "label": "comp.sys.ibm.pc.hardware"
+}
+{
+    "text": "The Mac is a family of personal computers designed, manufactured, and sold by Apple Inc. since January 1984.",
+    "label": "comp.sys.mac.hardware"
+}
+{
+    "text": "The original Macintosh is the first successful mass-market all-in-one desktop personal computer to have featured a graphical user interface, built-in screen, and mouse.",
+    "label": "comp.sys.mac.hardware"
+}
+{
+    "text": "Macintosh systems were successful in education and desktop publishing, making Apple the second-largest PC manufacturer for the 1990s",
+    "label": "comp.sys.mac.hardware"
+}
+{
+    "text": "Online shopping is a form of electronic commerce which allows consumers to directly buy goods or services from a seller over the Internet using a web browser or a mobile app.",
+    "label": "misc.forsale"
+}
+{
+    "text": "Consumers find a product of interest by visiting the website of the retailer directly or by searching among alternative vendors using a shopping search engine, which displays the same product's availability and pricing at different e-retailers.",
+    "label": "misc.forsale"
+}
+{
+    "text": "Online stores usually enable shoppers to use search features to find specific models, brands or items. Online customers must have access to the Internet and a valid method of payment in order to complete a transaction, such as a credit card, an Interac-enabled debit card, or a service such as PayPal.",
+    "label": "misc.forsale"
+}
+{
+    "text": "A car (or automobile) is a wheeled motor vehicle used for transportation.",
+    "label": "rec.autos"
+}
+{
+    "text": "Most definitions of cars say that they run primarily on roads, seat one-to-eight people, have four wheels and mainly transport people rather than goods.",
+    "label": "rec.autos"
+}
+{
+    "text": "Cars have controls for driving, parking, passenger comfort, and a variety of lights. Over the decades, additional features and controls have been added to vehicles, making them progressively more complex, but also more reliable and easier to operate.",
+    "label": "rec.autos"
+}
+{
+    "text": "A motorcycle, often called a motorbike, bike, or cycle, is a two- or three-wheeled motor vehicle.",
+    "label": "rec.motorcycles"
+}
+{
+    "text": "Motorcycling is riding a motorcycle and being involved in other related social activity such as joining a motorcycle club and attending motorcycle rallies.",
+    "label": "rec.motorcycles"
+}
+{
+    "text": "A two-wheeled motor vehicle resembling a heavy bicycle, sometimes having two saddles and a sidecar with a third wheel.",
+    "label": "rec.motorcycles"
+}
+{
+    "text": "A game played with a bat and ball by two opposing teams of nine players, each team playing alternately in the field and at bat, the players at bat having to run a course of four bases laid out in a diamond pattern in order to score.",
+    "label": "rec.sport.baseball"
+}
+{
+    "text": "The game proceeds when a player on the fielding team, called the pitcher, throws a ball which a player on the batting team tries to hit with a bat.",
+    "label": "rec.sport.baseball"
+}
+{
+    "text": "The objective of the offensive team (batting team) is to hit the ball into the field of play, allowing its players to run the bases, having them advance counter-clockwise around four bases to score what are called runs. The objective of the defensive team (fielding team) is to prevent batters from becoming runners, and to prevent runners' advance around the bases.",
+    "label": "rec.sport.baseball"
+}
+{
+    "text": "Hockey is a sport in which two teams play against each other by trying to manoeuvre a ball or a puck into the opponent's goal using a hockey stick.",
+    "label": "rec.sport.hockey"
+}
+{
+    "text": "In most of the world, the term hockey by itself refers to field hockey, while in Canada, the United States, Russia and most of Eastern and Northern Europe, the term usually refers to ice hockey.",
+    "label": "rec.sport.hockey"
+}
+{
+    "text": "Ice hockey is a contact winter team sport played on ice skates, usually on a rink. Two opposing teams, typically fielding six skaters each, use sticks to shoot a vulcanized rubber puck into the other team's goal; the winner is the team to score most goals.",
+    "label": "rec.sport.hockey"
+}
+{
+    "text": "Any of various mathematical techniques for encrypting and decrypting data in order to keep it private when transmitted or stored electronically.",
+    "label": "sci.crypt"
+}
+{
+    "text": "More generally, cryptography is about constructing and analyzing protocols that prevent third parties or the public from reading private messages.",
+    "label": "sci.crypt"
+}
+{
+    "text": "Applications of cryptography include electronic commerce, chip-based payment cards, digital currencies, computer passwords, and military communications.",
+    "label": "sci.crypt"
+}
+{
+    "text": "An electronic component is any physical entity in an electronic system used to affect the electrons or their associated fields in a manner consistent with the intended function of the electronic system.",
+    "label": "sci.electronics"
+}
+{
+    "text": "Electronics comprises the physics, engineering, technology and applications that deal with the emission, flow and control of electrons in vacuum and matter.",
+    "label": "sci.electronics"
+}
+{
+    "text": "Components are generally intended to be connected together, usually by being soldered to a printed circuit board (PCB), to create an electronic circuit with a particular function (for example an amplifier, radio receiver, or oscillator).",
+    "label": "sci.electronics"
+}
+{
+    "text": "Medicine is the science and practice of caring for a patient, managing the diagnosis, prognosis, prevention, treatment, palliation of their injury or disease, and promoting their health.",
+    "label": "sci.med"
+}
+{
+    "text": "Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+    "label": "sci.med"
+}
+{
+    "text": "Contemporary medicine applies biomedical sciences, biomedical research, genetics, and medical technology to diagnose, treat, and prevent injury and disease, typically through pharmaceuticals or surgery.",
+    "label": "sci.med"
+}
+{
+    "text": "Outer space is the expanse that exists beyond Earth and between celestial bodies.",
+    "label": "sci.space"
+}
+{
+    "text": "Due to the high cost of getting into space, human spaceflight has been limited to low Earth orbit and the Moon. On the other hand, uncrewed spacecraft have reached all of the known planets in the Solar System.",
+    "label": "sci.space"
+}
+{
+    "text": "Space exploration is the use of astronomy and space technology to explore outer space. While the exploration of space is carried out mainly by astronomers with telescopes, its physical exploration is conducted both by unmanned robotic space probes and human spaceflight.",
+    "label": "sci.space"
+}
+{
+    "text": "Christianity is an Abrahamic, monotheistic religion based on the life and teachings of Jesus of Nazareth. It is the world's largest religion, with about 2.4 billion followers.",
+    "label": "soc.religion.christian"
+}
+{
+    "text": "Christianity remains culturally diverse in its Western and Eastern branches, as well as in its doctrines.concerning justification and the nature of salvation, ecclesiology, ordination, and Christology.",
+    "label": "soc.religion.christian"
+}
+{
+    "text": "Gun control (or firearms regulation) is the set of laws or policies that regulate the manufacture, sale, transfer, possession, modification, or use of firearms by civilians.",
+    "label": "talk.politics.guns"
+}
+{
+    "text": "Gun control refers to domestic regulation of firearm manufacture, trade, possession, use, and transport, specifically with regard to the class of weapons referred to as small arms (revolvers and self-loading pistols, rifles and carbines, assault rifles, submachine guns and light machine guns).",
+    "label": "talk.politics.guns"
+}
+{
+    "text": "Usage of the term gun control is sometimes politicized. Some of those in favor of legislation instead prefer to use terms such as \"gun-violence prevention\", \"gun safety\", \"firearms regulation\", \"illegal guns\", or \"criminal access to guns\".",
+    "label": "talk.politics.guns"
+}
+{
+    "text": "The Middle East is a geopolitical term that commonly refers to the region spanning the Levant, Arabian Peninsula, Anatolia (including modern Turkey and Cyprus), Egypt, Iran and Iraq.",
+    "label": "talk.politics.mideast"
+}
+{
+    "text": "the countries of northern Africa and southwestern Asia that are on or near the eastern edge of the Mediterranean Sea.",
+    "label": "talk.politics.mideast"
+}
+{
+    "text": "Throughout the 20th and 21st centuries, the region has experienced both periods of relative peace and tolerance and periods of conflict.",
+    "label": "talk.politics.mideast"
+}
+{
+    "text": "The art or science of government or governing, especially the governing of a political entity, such as a nation, and the administration and control of its internal and external affairs.",
+    "label": "talk.politics.misc"
+}
+{
+    "text": "The activities or affairs engaged in by a government, politician, or political party.",
+    "label": "talk.politics.misc"
+}
+{
+    "text": "The opinions that someone has about what should be done by governments : a person's political thoughts and opinions.",
+    "label": "talk.politics.misc"
+}
+{
+    "text": "Religion is a social-cultural system of designated behaviors and practices, morals, beliefs, worldviews, texts, sanctified places, prophecies, ethics, or organizations, that relates humanity to supernatural, transcendental, and spiritual elements",
+    "label": "talk.religion.misc"
+}
+{
+    "text": "Religious practices may include rituals, sermons, commemoration or veneration (of deities and/or saints), sacrifices, festivals",
+    "label": "talk.religion.misc"
+}
+{
+    "text": "A set of beliefs, values, and practices based on the teachings of a spiritual leader.",
+    "label": "talk.religion.misc"
+}

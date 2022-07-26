@@ -258,8 +258,8 @@ if __name__ == "__main__":
     # unit tests
     data_args = CIFARSuperClassDataArgs(
         label_tokenizer="prajjwal1/bert-small",
-        train_label_json="../class_descrs/cifar/google_cifar100_autoclean.labels",
-        val_label_json="../class_descrs/cifar/cifar100_superclass_eval_labels.labels",
+        train_label_json="../class_descs/cifarGPT_formatted.labels",
+        val_label_json="../class_descs/cifarGPT_SUP_formatted.labels",
         cache_dir="../data_cache",
     )
     data_mod = CIFARSuperClassDM(args=data_args)

@@ -69,11 +69,13 @@ if __name__ == "__main__":
     cfg.checkpoint.CHECKPOINT_NAME_LAST = "last_" + args.name 
     
     if cfg.load.checkpoint:
+        print("Checkpoint Path: ", cfg.load.checkpoint)
         cfg.model = (
             ModelCls.load_from_checkpoint(cfg.load.checkpoint)
             if cfg.load.hyperparams else
             ModelCls.load_from_checkpoint(cfg.load.checkpoint, args=cfg.model.args)
         )
+        print("Checkpoint Model Loaded")
     if args.trainer.logger:
         cfg.logger.watch(cfg.model) #log="all", log_freq=5000)
         cfg.logger.experiment.config.update(args)
@@ -86,5 +88,27 @@ if __name__ == "__main__":
     if cfg.validate:
         cfg.trainer.validate(cfg.model, cfg.data)
 
-    if cfg.train:
-        cfg.trainer.fit(cfg.model, cfg.data)
+   
+    try:
+        if cfg.train:
+            cfg.trainer.fit(cfg.model, cfg.data)
+    except Exception as ex:
+        print(cfg.data)
+        print("RUN: train transform: ", cfg.data.dataset["train"].dataset.transform)
+        print("RUN: val transform: ", cfg.data.dataset["val"].dataset.transform)
+        print("RUN: train target_transform: ", cfg.data.dataset["train"].dataset.target_transform)
+        print("RUN: val target_transform: ", cfg.data.dataset["val"].dataset.target_transform)
+        print("RUN: train transforms: ", cfg.data.dataset["train"].dataset.transforms)
+        print("RUN: val transforms: ", cfg.data.dataset["val"].dataset.transforms)
+        print("RUN: train data: ", cfg.data.dataset["train"])
+
+        raise ex
+    
+    print(cfg.data)
+    print("RUN: train transform: ", cfg.data.dataset["train"].dataset.transform)
+    print("RUN: val transform: ", cfg.data.dataset["val"].dataset.transform)
+    print("RUN: train target_transform: ", cfg.data.dataset["train"].dataset.target_transform)
+    print("RUN: val target_transform: ", cfg.data.dataset["val"].dataset.target_transform)
+    print("RUN: train transforms: ", cfg.data.dataset["train"].dataset.transforms)
+    print("RUN: val transforms: ", cfg.data.dataset["val"].dataset.transforms)
+    print("RUN: train data: ", cfg.data.dataset["train"])

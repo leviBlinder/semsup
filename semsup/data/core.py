@@ -81,8 +81,14 @@ class SemSupDataArgs:
     val_label_cache_path: str = None
 
     def __post_init__(self):
+        print("train_label: {}".format(self.train_label_json))
+        print("train_path: {}".format(Path(self.train_label_json).absolute()))
+        print("cache_dir: {}".format(self.cache_dir))
+        print("cache_path: {}".format(Path(self.cache_dir).absolute()))
         assert Path(self.train_label_json).is_file()
         assert Path(self.cache_dir).is_dir()
+        print("val_label: {}".format(self.val_label_json))
+        print("val_path: {}".format(Path(self.val_label_json).absolute()))
         if self.val_label_json is not None:
             assert Path(self.val_label_json).is_file()
         else:

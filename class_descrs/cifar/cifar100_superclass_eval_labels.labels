@@ -1,0 +1,20 @@
+{"text": "aquatic mammals are mammals that live in water.", "label": "aquatic_mammals"}
+{"text": "fish are aquatic gill-bearing animals.", "label": "fish"}
+{"text": "flowers are the reproductive structure found in flowering plants.", "label": "flowers"}
+{"text": "food containers are vessels for containing food.", "label": "food_containers"}
+{"text": "fruits and vegetables are edible plants that contain many nutrients essential for health.", "label": "fruit_and_vegetables"}
+{"text": "electronics and appliances commonly found around the household.", "label": "household_electrical_devices"}
+{"text": "furniture commonly found in houses, offices and other living spaces.", "label": "household_furniture"}
+{"text": "insects are arthropod invertebrates with six legs.", "label": "insects"}
+{"text": "large carnivores are animals that hunt other animals for food", "label": "large_carnivores"}
+{"text": "large man-made outdoor structures for transportation or living", "label": "large_man-made_outdoor_things"}
+{"text": "natural habitats and biomes and clouds", "label": "large_natural_outdoor_scenes"}
+{"text": "large herbivores are large megafauna land animals that eat plants for food", "label": "large_omnivores_and_herbivores"}
+{"text": "medium sized mammals about the size of a dog.", "label": "medium_mammals"}
+{"text": "invertebrates without legs, crustaceans and arachnids.", "label": "non-insect_invertebrates"}
+{"text": "people are can be a man, women, boy or girl.", "label": "people"}
+{"text": "reptiles are cold-blooded animals with scales.", "label": "reptiles"}
+{"text": "small sized mammals about the size of a hand.", "label": "small_mammals"}
+{"text": "trees are plants with a trunk, branches, and leaves.", "label": "trees"}
+{"text": "vehicles used primarily for transportation.", "label": "vehicles_1"}
+{"text": "specialty vehicles used for agriculture, military, space exploration, gardening, and streetcars.", "label": "vehicles_2"}

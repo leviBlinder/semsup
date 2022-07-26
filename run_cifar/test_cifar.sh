@@ -17,7 +17,7 @@ echo
 echo "TESTING CIFAR: SETTING 0"
 echo
 
-BASE EXPERIMENTS
+echo "BASE EXPERIMENTS"
 echo "Base"
 $RUN_CMD --config "$CONFIG_FOLDER/cifar_sup.yaml" --data.args.val_label_json $TRAIN --checkpoints "$CKPT_FOLDER/base/"cifar*.ckpt "$@"
 echo "SemLab"

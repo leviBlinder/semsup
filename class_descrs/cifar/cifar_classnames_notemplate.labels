@@ -1,0 +1,100 @@
+{"text": "apple", "label": "apple"}
+{"text": "aquarium fish", "label": "aquarium_fish"}
+{"text": "baby", "label": "baby"}
+{"text": "bear", "label": "bear"}
+{"text": "beaver", "label": "beaver"}
+{"text": "bed", "label": "bed"}
+{"text": "bee", "label": "bee"}
+{"text": "beetle", "label": "beetle"}
+{"text": "bicycle", "label": "bicycle"}
+{"text": "bottle", "label": "bottle"}
+{"text": "bowl", "label": "bowl"}
+{"text": "boy", "label": "boy"}
+{"text": "bridge", "label": "bridge"}
+{"text": "bus", "label": "bus"}
+{"text": "butterfly", "label": "butterfly"}
+{"text": "camel", "label": "camel"}
+{"text": "can", "label": "can"}
+{"text": "castle", "label": "castle"}
+{"text": "caterpillar", "label": "caterpillar"}
+{"text": "cattle", "label": "cattle"}
+{"text": "chair", "label": "chair"}
+{"text": "chimpanzee", "label": "chimpanzee"}
+{"text": "clock", "label": "clock"}
+{"text": "cloud", "label": "cloud"}
+{"text": "cockroach", "label": "cockroach"}
+{"text": "couch", "label": "couch"}
+{"text": "crab", "label": "crab"}
+{"text": "crocodile", "label": "crocodile"}
+{"text": "cup", "label": "cup"}
+{"text": "dinosaur", "label": "dinosaur"}
+{"text": "dolphin", "label": "dolphin"}
+{"text": "elephant", "label": "elephant"}
+{"text": "flatfish", "label": "flatfish"}
+{"text": "forest", "label": "forest"}
+{"text": "fox", "label": "fox"}
+{"text": "girl", "label": "girl"}
+{"text": "hamster", "label": "hamster"}
+{"text": "house", "label": "house"}
+{"text": "kangaroo", "label": "kangaroo"}
+{"text": "keyboard", "label": "keyboard"}
+{"text": "lamp", "label": "lamp"}
+{"text": "lawn mower", "label": "lawn_mower"}
+{"text": "leopard", "label": "leopard"}
+{"text": "lion", "label": "lion"}
+{"text": "lizard", "label": "lizard"}
+{"text": "lobster", "label": "lobster"}
+{"text": "man", "label": "man"}
+{"text": "maple tree", "label": "maple_tree"}
+{"text": "motorcycle", "label": "motorcycle"}
+{"text": "mountain", "label": "mountain"}
+{"text": "mouse", "label": "mouse"}
+{"text": "mushroom", "label": "mushroom"}
+{"text": "oak tree", "label": "oak_tree"}
+{"text": "orange", "label": "orange"}
+{"text": "orchid", "label": "orchid"}
+{"text": "otter", "label": "otter"}
+{"text": "palm tree", "label": "palm_tree"}
+{"text": "pear", "label": "pear"}
+{"text": "pickup truck", "label": "pickup_truck"}
+{"text": "pine tree", "label": "pine_tree"}
+{"text": "the plains", "label": "plain"}
+{"text": "plate", "label": "plate"}
+{"text": "poppy", "label": "poppy"}
+{"text": "porcupine", "label": "porcupine"}
+{"text": "possum", "label": "possum"}
+{"text": "rabbit", "label": "rabbit"}
+{"text": "raccoon", "label": "raccoon"}
+{"text": "ray fish", "label": "ray"}
+{"text": "road", "label": "road"}
+{"text": "rocket", "label": "rocket"}
+{"text": "rose", "label": "rose"}
+{"text": "the sea", "label": "sea"}
+{"text": "seal", "label": "seal"}
+{"text": "shark", "label": "shark"}
+{"text": "shrew", "label": "shrew"}
+{"text": "skunk", "label": "skunk"}
+{"text": "skyscraper", "label": "skyscraper"}
+{"text": "snail", "label": "snail"}
+{"text": "snake", "label": "snake"}
+{"text": "spider", "label": "spider"}
+{"text": "squirrel", "label": "squirrel"}
+{"text": "streetcar", "label": "streetcar"}
+{"text": "sunflower", "label": "sunflower"}
+{"text": "sweet pepper", "label": "sweet_pepper"}
+{"text": "table", "label": "table"}
+{"text": "tank", "label": "tank"}
+{"text": "phone", "label": "telephone"}
+{"text": "tv", "label": "television"}
+{"text": "tiger", "label": "tiger"}
+{"text": "tractor", "label": "tractor"}
+{"text": "train", "label": "train"}
+{"text": "trout", "label": "trout"}
+{"text": "tulip", "label": "tulip"}
+{"text": "turtle", "label": "turtle"}
+{"text": "wardrobe", "label": "wardrobe"}
+{"text": "whale", "label": "whale"}
+{"text": "willow tree", "label": "willow_tree"}
+{"text": "wolf", "label": "wolf"}
+{"text": "woman", "label": "woman"}
+{"text": "worm", "label": "worm"}

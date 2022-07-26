@@ -3,6 +3,7 @@
 import pickle
 from dataclasses import dataclass
 from pathlib import Path
+import numpy as np #new import
 
 from datasets import ClassLabel
 from torch.utils.data import Subset
@@ -20,10 +21,12 @@ class CIFARDataArgs(SemSupDataArgs):
         split_seed (int): seed to make train-val split
         test_size (float): size of the test size of each class (from total)
         val_size (float): size of the val set of each class (from train)
+        train_size (float): size of the int set of each class (from train)
         load_test (bool): load the test dataset
     """
 
     split_seed: int = 42  # seed to make train-val split
+    train_size = None # By default, train set will be compliment of val set. 
     val_size: float = 0.2  # size of the val set of each class (from train)
     load_test: bool = False  # load the test datset
 
@@ -110,18 +113,11 @@ class CIFAR100DataModule(SemSupDataModule):
             download=False,
             transform=self.eval_transform,
         )
-        if self.args.run_test:
-            self.test_dataset = torchvision.datasets.CIFAR100(
-                root=self.args.cache_dir,
-                train=False,
-                download=False,
-                transform=self.eval_transform,
-            )
-            self.dataset["test"] = self.test_dataset
 
         # make stratified split of train and val datasets
         train_idx, val_idx = train_test_split(
             list(range(len(train_dataset))),
+            train_size=self.args.train_size,
             test_size=self.args.val_size,
             random_state=self.args.split_seed,
             shuffle=True,
@@ -132,13 +128,19 @@ class CIFAR100DataModule(SemSupDataModule):
 
         if self.args.run_test:
             self.dataset["val"] = self.dataset["test"]
+        
+        print("setup complete")
+        print("train len: ", len(self.dataset["train"]))
+        print("val len: ", len(self.dataset["val"]))
+        if self.args.run_test:
+            print("test len: ", len(self.dataset["test"]))
 
 
 if __name__ == "__main__":
     # unit tests
     data_args = CIFARDataArgs(
         label_tokenizer="prajjwal1/bert-small",
-        train_label_json="../class_descrs/cifar/google_cifar100_autoclean.labels",
+        train_label_json="../class_descs/cifarGPT_formatted.labels",
         cache_dir="../data_cache",
     )
     data_mod = CIFAR100DataModule(args=data_args)
