@@ -1,0 +1,20 @@
+ModelCls: ResNetSemSup
+DataCls: CIFARFewShotDM
+
+seed: 42
+name: cifar_fewshot_clsname_5way_5shot
+load.checkpoint: ../checkpoints/cifar/cifar_fewshot_clsname_pretrain-epoch=06-val_loss=2.03.ckpt
+
+model:
+  args:
+    label_model: prajjwal1/bert-small
+
+data:
+  args:
+    label_tokenizer: prajjwal1/bert-small
+    train_label_json: ../class_descrs/cifar/cifar_classnames_notemplate.labels
+    cache_dir: "../data_cache"
+    few_shot_k: 5
+
+trainer:
+  log_every_n_steps: 1

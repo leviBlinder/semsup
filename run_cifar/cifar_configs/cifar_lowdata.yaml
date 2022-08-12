@@ -14,3 +14,7 @@ data:
     train_label_json:  ../class_descs/cifarGPT_formatted_train.labels
     val_label_json: ../class_descs/cifarGPT_formatted_train.labels
     cache_dir: "../data_cache"
+    k_way: 100
+
+trainer:
+  log_every_n_steps: 25

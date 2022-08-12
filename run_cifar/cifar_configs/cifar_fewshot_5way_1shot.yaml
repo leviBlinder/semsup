@@ -2,9 +2,8 @@ ModelCls: ResNetSemSup
 DataCls: CIFARFewShotDM
 
 seed: 42
-name: cifar_fewshot_10
-
-load.checkpoint: ../checkpoints/cifar/last_cifar_fewshot_pretrain_s1.ckpt
+name: cifar_fewshot_5way_1shot
+load.checkpoint: ../checkpoints/cifar/cifar_fewshot_pretrain-epoch=15-val_loss=1.85.ckpt
 
 model:
   args:
@@ -16,7 +15,7 @@ data:
     train_label_json:  ../class_descs/cifarGPT_formatted_train.labels
     val_label_json: ../class_descs/cifarGPT_formatted_train.labels
     cache_dir: "../data_cache"
-    few_shot_k: 10
+    few_shot_k: 1
 
 trainer:
-  log_every_n_steps: 2
+  log_every_n_steps: 1

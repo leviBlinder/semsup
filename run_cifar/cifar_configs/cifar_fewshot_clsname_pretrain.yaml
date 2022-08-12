@@ -1,0 +1,18 @@
+ModelCls: ResNetSemSup
+DataCls: CIFARHeldoutDM
+
+seed: 42
+name: cifar_fewshot_clsname_pretrain
+
+model:
+  args:
+    label_model: prajjwal1/bert-small
+
+checkpoint:
+  filename: "cifar_fewshot_clsname_pretrain-{epoch:02d}-{val_acc:.2f}"
+
+data:
+  args:
+    label_tokenizer: prajjwal1/bert-small
+    train_label_json:  ../class_descrs/cifar_classnames_notemplate.labels
+    cache_dir: "../data_cache"
