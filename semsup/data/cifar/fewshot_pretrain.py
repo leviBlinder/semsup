@@ -21,13 +21,22 @@ class CIFARFewShotPretrainDataArgs(CIFARDataArgs):
         "pine_tree",
         "bottle",
         "trout",
-        "chair",
-        "butterfly",
-        "chimpanzee",
-        "orange",
-        "leopard",
-        "possum",
+        "chair"
     )
+
+
+    # fewshot_names: tuple = (
+    #     "motorcycle",
+    #     "pine_tree",
+    #     "bottle",
+    #     "trout",
+    #     "chair"
+    #     "butterfly",
+    #     "chimpanzee",
+    #     "orange",
+    #     "leopard",
+    #     "possum",
+    # )
 
 
 

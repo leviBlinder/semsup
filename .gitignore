@@ -175,3 +175,7 @@ data_cache/
 #checkpoints
 
 checkpoints/
+
+# Glove 
+
+glove-wiki-gigaword-300/

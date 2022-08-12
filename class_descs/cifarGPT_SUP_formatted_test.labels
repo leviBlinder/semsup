@@ -1,60 +1,100 @@
-{"text": "The aquatic mammal's eyes are large and round, and its pupils are dilated", "label": "aquatic_mammals"}
-{"text": "They have a streamlined body shape that helps them swim quickly and efficiently", "label": "aquatic_mammals"}
-{"text": "Their webbed feet and hands help them move through the water with ease", "label": "aquatic_mammals"}
-{"text": "The fish's mouth is small and delicate, with tiny teeth lining the lips", "label": "fish"}
-{"text": "The fish has a beautiful, colorful tail that helps it attract mates", "label": "fish"}
-{"text": "The fish has a long, slender body that helps it move through the water quickly", "label": "fish"}
-{"text": "The flower is the site where most of the reproductive process takes place", "label": "flowers"}
-{"text": "The flowers are a wonderful sight", "label": "flowers"}
-{"text": "The flower is a beautiful deep red color", "label": "flowers"}
-{"text": "A food container can be reusable or disposable", "label": "food_containers"}
-{"text": "The food container is stored in a cool, dry place", "label": "food_containers"}
-{"text": "The food container has a lid that is sealed shut", "label": "food_containers"}
-{"text": "Fruits and vegetables can help reduce the risk of chronic diseases", "label": "fruit_and_vegetables"}
-{"text": "The fruit is a deep red color, with a smooth, shiny skin", "label": "fruit_and_vegetables"}
-{"text": "The shape of the fruit or vegetable", "label": "fruit_and_vegetables"}
-{"text": "The device is small and sleek, with a glossy black finish", "label": "household_electrical_devices"}
-{"text": "The device is small and compact, with a sleek design", "label": "household_electrical_devices"}
-{"text": "The device is small and compact, with a metallic silver finish", "label": "household_electrical_devices"}
-{"text": "It is usually used for sitting or sleeping on", "label": "household_furniture"}
-{"text": "Household furniture can come in a variety of shapes and sizes", "label": "household_furniture"}
-{"text": "The furniture has a sleek, modern design that would look great in any home", "label": "household_furniture"}
-{"text": "The insect has a hard exoskeleton that protects it from predators", "label": "insects"}
-{"text": "Insects are a class of invertebrate animals within the arthropod phylum that have a chitinous exoskeleton, a three-part body (head, thorax, and abdomen), three pairs of jointed legs, compound eyes, and one pair of antennae", "label": "insects"}
-{"text": "It has long, spindly legs, each tipped with a sharp claw", "label": "insects"}
-{"text": "It has a long, muscular body that is covered in fur", "label": "large_carnivores"}
-{"text": "They are typically at the top of the food chain in their ecosystems", "label": "large_carnivores"}
-{"text": "The large carnivore's teeth are sharp and dangerous", "label": "large_carnivores"}
-{"text": "A large man-made outdoor thing can be a big natural feature that someone altered, like a dam", "label": "large_man-made_outdoor_things"}
-{"text": "The large outdoor thing is huge and sprawling", "label": "large_man-made_outdoor_things"}
-{"text": "A large man-made outdoor thing is a big object that someone made, usually on purpose, and is usually located outside", "label": "large_man-made_outdoor_things"}
-{"text": "The light was so bright and intense", "label": "large_natural_outdoor_scenes"}
-{"text": "The details are so intricate and beautiful", "label": "large_natural_outdoor_scenes"}
-{"text": "A large natural outdoor scene is a scene that is both large and outdoors", "label": "large_natural_outdoor_scenes"}
-{"text": "Omnivores are typically brightly colored, making them stand out in their environment", "label": "large_omnivores_and_herbivores"}
-{"text": "It has large, powerful hind legs that it uses to run and jump", "label": "large_omnivores_and_herbivores"}
-{"text": "Large omnivores and herbivores are animals that consume both plants and animals", "label": "large_omnivores_and_herbivores"}
-{"text": "A medium mammal is usually about the size of a house cat or small dog", "label": "medium_mammals"}
-{"text": "A medium mammal is an animal that is neither small nor large", "label": "medium_mammals"}
-{"text": "The mammal has bright, shining eyes", "label": "medium_mammals"}
-{"text": "Non-insect invertebrates can be found in a variety of habitats", "label": "non-insect_invertebrates"}
-{"text": "Non-insect invertebrates include sponges, cnidarians, flatworms, and mollusks", "label": "non-insect_invertebrates"}
-{"text": "A non-insect invertebrate's visual appearance can be described as unique and striking", "label": "non-insect_invertebrates"}
-{"text": "They have piercing blue eyes", "label": "people"}
-{"text": "They were tall and slender", "label": "people"}
-{"text": "A people is a group of individuals with a common ancestry", "label": "people"}
-{"text": "Reptiles are vertebrates, meaning that they have a backbone", "label": "reptiles"}
-{"text": "The reptile's skin is covered in small, sharp scales", "label": "reptiles"}
-{"text": "Reptiles are cold-blooded, meaning they rely on the sun to warm their", "label": "reptiles"}
-{"text": "They are often preyed upon by larger predators, and therefore have evolved a variety of adaptive strategies for survival", "label": "small_mammals"}
-{"text": "Many small mammals are proficient climbers and swimmers, and some can even fly", "label": "small_mammals"}
-{"text": "The small mammal had small, black eyes", "label": "small_mammals"}
-{"text": "The tree's trunk is a deep brown", "label": "trees"}
-{"text": "A tree is a tall plant with a trunk and branches made of wood", "label": "trees"}
-{"text": "A tree is a woody plant that has a trunk and branches", "label": "trees"}
-{"text": "The car is long and low", "label": "vehicles_1"}
-{"text": "A vehicle is an object that can be used to move people or things from one place to another", "label": "vehicles_1"}
-{"text": "A vehicle is a machine that is used for transportation", "label": "vehicles_1"}
-{"text": "The vehicle is environmentally friendly", "label": "vehicles_2"}
-{"text": "The vehicle is powerful and fast", "label": "vehicles_2"}
-{"text": "A vehicle is a means of transportation", "label": "vehicles_2"}
+{"text": "It has webbed feet that help it to swim through the water", "label": "aquatic_mammals"}
+{"text": "It has a thick layer of blubber that helps to keep it warm in the cold water", "label": "aquatic_mammals"}
+{"text": "It is a mammal that is able to swim", "label": "aquatic_mammals"}
+{"text": "an important part of the ecosystem, providing a link between the water and land", "label": "aquatic_mammals"}
+{"text": "It is a mammal adapted to an aquatic lifestyle", "label": "aquatic_mammals"}
+{"text": "Fish come in a variety of shapes and sizes, and can be found in both fresh and salt water", "label": "fish"}
+{"text": "They have been studied for centuries and are a model organism in many fields of research", "label": "fish"}
+{"text": "It was a beautiful fish, and it swam with a graceful, fluid motion", "label": "fish"}
+{"text": "It has a long tail that it uses to propel itself through the water", "label": "fish"}
+{"text": "Fish are cold-blooded vertebrates that live in water", "label": "fish"}
+{"text": "The flower was absolutely stunning, with its large, bright petals and delicate features", "label": "flowers"}
+{"text": "was a beautiful flower, with delicate petals that were a deep pink color", "label": "flowers"}
+{"text": "They have been used as a way to show sympathy and support during tough times", "label": "flowers"}
+{"text": "The flower is big and red", "label": "flowers"}
+{"text": "The typical flower has four parts: the petals, the sepals, the stamen, and the pistil", "label": "flowers"}
+{"text": "They can help to prevent food waste", "label": "food_containers"}
+{"text": "They can help to extend the shelf life of food", "label": "food_containers"}
+{"text": "It has a green label with the word \"Organic\" in white", "label": "food_containers"}
+{"text": "It can be of any size or shape", "label": "food_containers"}
+{"text": "essential for keeping food fresh and preventing spoilage", "label": "food_containers"}
+{"text": "It is a good source of dietary fiber", "label": "fruit_and_vegetables"}
+{"text": "It is low in calories and fat", "label": "fruit_and_vegetables"}
+{"text": "was a beautiful, sunny day, and the fruits and vegetables looked especially vibrant", "label": "fruit_and_vegetables"}
+{"text": "The fruits and vegetables were so fresh that they looked like they had just been picked", "label": "fruit_and_vegetables"}
+{"text": "It is a long, thin, yellow fruit with a green stem", "label": "fruit_and_vegetables"}
+{"text": "It is a device that helps to make our lives easier", "label": "household_electrical_devices"}
+{"text": "It's lightweight and easy to carry around", "label": "household_electrical_devices"}
+{"text": "They are a major source of water pollution, due to the release of pollutants into waterways from power plants", "label": "household_electrical_devices"}
+{"text": "They are a major contributor to climate change, due to the release of greenhouse gases into the atmosphere", "label": "household_electrical_devices"}
+{"text": "is a device that uses electricity to perform a task", "label": "household_electrical_devices"}
+{"text": "It can be used for sitting, sleeping, or other purposes", "label": "household_furniture"}
+{"text": "It is available in a variety of colors to match any home's style", "label": "household_furniture"}
+{"text": "has a sleek, modern design that will complement any home dcor", "label": "household_furniture"}
+{"text": "It is made from high-quality materials that are built to last", "label": "household_furniture"}
+{"text": "It features a unique design that is sure to stand out in any home", "label": "household_furniture"}
+{"text": "It has six legs that help it move quickly", "label": "insects"}
+{"text": "has large, compound eyes that allow it to see in all directions at once", "label": "insects"}
+{"text": "Its body is segmented and it has a hard exoskeleton", "label": "insects"}
+{"text": "It can be a variety of colors, including brown, black, and red", "label": "insects"}
+{"text": "It has two antennae that help it sense its surroundings", "label": "insects"}
+{"text": "They are a flagship species and their conservation can help to protect an entire ecosystem", "label": "large_carnivores"}
+{"text": "It was very stocky, and its fur was a dark brown", "label": "large_carnivores"}
+{"text": "It was a truly impressive sight, and one that would be sure to leave anyone who saw it feeling both awed and a little bit afraid", "label": "large_carnivores"}
+{"text": "It is a predator of other animals", "label": "large_carnivores"}
+{"text": "had a large, powerful body with thick fur that made it look even bigger", "label": "large_carnivores"}
+{"text": "It is very big and very impressive", "label": "large_man-made_outdoor_things"}
+{"text": "It is a sight that will stay with you long after you see it, leaving a lasting impression", "label": "large_man-made_outdoor_things"}
+{"text": "is incredibly massive, dwarfing everything else around it", "label": "large_man-made_outdoor_things"}
+{"text": "It is brightly colored and makes a lot of noise", "label": "large_man-made_outdoor_things"}
+{"text": "It is imposing and awe-inspiring, making anyone who sees it feel small and insignificant", "label": "large_man-made_outdoor_things"}
+{"text": "'s a beautiful sunny day and the sky is a deep blue", "label": "large_natural_outdoor_scenes"}
+{"text": "The sky was a deep blue, and the clouds were fluffy and white", "label": "large_natural_outdoor_scenes"}
+{"text": "The flowers are blooming and the bees are buzzing", "label": "large_natural_outdoor_scenes"}
+{"text": "The trees were tall and green, and the grass was a deep green", "label": "large_natural_outdoor_scenes"}
+{"text": "The trees are tall and green, and the grass is a deep green", "label": "large_natural_outdoor_scenes"}
+{"text": "is a large, plant-eating animal with a big head, long neck, and small eyes", "label": "large_omnivores_and_herbivores"}
+{"text": "They play an important role in the global carbon cycle", "label": "large_omnivores_and_herbivores"}
+{"text": "It has a long neck and a big, round body", "label": "large_omnivores_and_herbivores"}
+{"text": "It is an omnivore, and may eat both plants and animals", "label": "large_omnivores_and_herbivores"}
+{"text": "It has sharp claws and teeth", "label": "large_omnivores_and_herbivores"}
+{"text": "They provide a source of fur and other materials for humans", "label": "medium_mammals"}
+{"text": "It has long, powerful legs and a long tail", "label": "medium_mammals"}
+{"text": "They play an important role in the dispersal of seeds and other plant material", "label": "medium_mammals"}
+{"text": "It has a long, bushy tail that is a lighter brown color", "label": "medium_mammals"}
+{"text": "an important link in the food chain", "label": "medium_mammals"}
+{"text": "It has two large, compound eyes that give it excellent vision", "label": "non-insect_invertebrates"}
+{"text": "They play an important role in the food chain and the global ecosystem", "label": "non-insect_invertebrates"}
+{"text": "It was a small, dark creature with beady eyes", "label": "non-insect_invertebrates"}
+{"text": "It has many legs, and its movement is often described as \"creeping\" or \"crawling", "label": "non-insect_invertebrates"}
+{"text": "a vital part of the ecosystem, providing food and shelter for many other animals", "label": "non-insect_invertebrates"}
+{"text": "There was a feeling of excitement in the air, as if anything could happen", "label": "people"}
+{"text": "The crowd was a mix of young and old, all wearing bright clothes", "label": "people"}
+{"text": "They are a people who have contributed significantly to the world", "label": "people"}
+{"text": "a people who have overcome great adversity", "label": "people"}
+{"text": "They were a people who commanded attention and respect, and who inspired both fear and admiration", "label": "people"}
+{"text": "They were the first animals to colonize the land, and their success in this environment helped pave the way for the evolution of other terrestrial vertebrates", "label": "reptiles"}
+{"text": "They are tetrapods, meaning they have four limbs, and most reptiles can walk or run", "label": "reptiles"}
+{"text": "It has four short legs and a long tail", "label": "reptiles"}
+{"text": "Its eyes are large and black, and its tongue is long and forked", "label": "reptiles"}
+{"text": "It has a long, thick tail and sharp claws", "label": "reptiles"}
+{"text": "It was a tiny creature, with delicate features", "label": "small_mammals"}
+{"text": "important in the food chain", "label": "small_mammals"}
+{"text": "It has a short, stubby tail", "label": "small_mammals"}
+{"text": "They are a source of fur and other products", "label": "small_mammals"}
+{"text": "It has a small, pointed nose, and its mouth is lined with sharp teeth", "label": "small_mammals"}
+{"text": "is a woody plant that typically has a single trunk and grows to a considerable height", "label": "trees"}
+{"text": "was a tall, leafy tree that towered over the others", "label": "trees"}
+{"text": "They provide us with food, shelter, and wood", "label": "trees"}
+{"text": "They are essential to the health of our planet and our species", "label": "trees"}
+{"text": "has a tall, straight trunk with smooth, gray bark", "label": "trees"}
+{"text": "was a sleek, black car that looked like it was meant for speed", "label": "vehicles_1"}
+{"text": "It is a device used for moving people or things from one place to another", "label": "vehicles_1"}
+{"text": "They are a way to get from one place to another", "label": "vehicles_1"}
+{"text": "It was a sophisticated, luxurious vehicle, appointed with the finest amenities", "label": "vehicles_1"}
+{"text": "The interior is luxurious and comfortable, with all the latest features", "label": "vehicles_1"}
+{"text": "They can help us get to work, school, or the store", "label": "vehicles_2"}
+{"text": "It had four large, powerful-looking wheels, and the tires looked like they would grip the road perfectly", "label": "vehicles_2"}
+{"text": "The car was so old that it looked like it might fall apart at any moment", "label": "vehicles_2"}
+{"text": "It is a spacious and comfortable vehicle that is perfect for long trips and family vacations", "label": "vehicles_2"}
+{"text": "The windows were tinted a dark black, making it impossible to see inside", "label": "vehicles_2"}

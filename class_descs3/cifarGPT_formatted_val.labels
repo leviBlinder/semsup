@@ -1,0 +1,293 @@
+{"text": "The apple is a round fruit with a smooth, red skin", "label": "apple"}
+{"text": "The apple has a crisp, white flesh with a small, hard core", "label": "apple"}
+{"text": "The fish has a curious expression that seems to be watching you", "label": "aquarium_fish"}
+{"text": "The fish has long, flowing fins that ripple in the water", "label": "aquarium_fish"}
+{"text": "Aquarium fish may be kept in a saltwater or freshwater aquarium", "label": "aquarium_fish"}
+{"text": "A baby is someone who is new to a particular situation or activity", "label": "baby"}
+{"text": "The baby's skin is soft and smooth", "label": "baby"}
+{"text": "A baby is a young human being who has not yet reached the age of majority", "label": "baby"}
+{"text": "Bears are usually found in forests, but some live in deserts or mountains", "label": "bear"}
+{"text": "The bear was a massive creature, easily twice the size of a man", "label": "bear"}
+{"text": "Bears are very good swimmers and some species can even climb trees", "label": "bear"}
+{"text": "The beaver is the largest rodent in North America", "label": "beaver"}
+{"text": "The beaver's large, orange teeth are sharp and pointy", "label": "beaver"}
+{"text": "The beaver is known for its dam-building behavior", "label": "beaver"}
+{"text": "The bed was covered in a luxurious silk duvet", "label": "bed"}
+{"text": "The bed is comfortable and provides a good night's sleep", "label": "bed"}
+{"text": "A bed can be used by one person or multiple people, and", "label": "bed"}
+{"text": "The bee has compound eyes which give it excellent", "label": "bee"}
+{"text": "A bee is an insect that is known for its role in pollination", "label": "bee"}
+{"text": "Its hind legs are modified for pollen collection, and it has specialised hair on its body for carrying pollen", "label": "bee"}
+{"text": "Its six legs are thin and spindly, ending in sharp claws", "label": "beetle"}
+{"text": "Beetles are a group of insects that include some of the most familiar and well-known species, such as the ladybird, firefly, and stag beetle", "label": "beetle"}
+{"text": "A beetle's visual appearance can be quite striking, with many different colors and patterns present on their exoskeleton", "label": "beetle"}
+{"text": "A bicycle's visual appearance can be described as sleek, elegant, and stylish", "label": "bicycle"}
+{"text": "A bicycle's visual appearance can be described as classic and timeless", "label": "bicycle"}
+{"text": "The bicycle's pedals are made of metal, and the chain", "label": "bicycle"}
+{"text": "The wine is well-balanced, with a smooth texture and a long finish", "label": "bottle"}
+{"text": "The glass is clear and smooth, with no imperfections", "label": "bottle"}
+{"text": "The inside of the bowl was smooth, with a slight curve to it", "label": "bowl"}
+{"text": "A bowl is often decorated or otherwise designed to be aest", "label": "bowl"}
+{"text": "The bowl was large and round, with a wide opening at the top", "label": "bowl"}
+{"text": "A boy is typically seen as being carefree and playful", "label": "boy"}
+{"text": "A boy is often seen as being mischievous and causing trouble", "label": "boy"}
+{"text": "He had a freckled face and bright blue eyes", "label": "boy"}
+{"text": "The bridge was a stunning sight", "label": "bridge"}
+{"text": "A bridge is a structure that spans a distance", "label": "bridge"}
+{"text": "The bridge has a design that is very intricate and looks very elegant", "label": "bridge"}
+{"text": "It had several windows that allowed passengers to see outside", "label": "bus"}
+{"text": "A bus is a vehicle designed to transport large groups of people", "label": "bus"}
+{"text": "The butterfly is a delicate and wondrous creature", "label": "butterfly"}
+{"text": "A butterfly's body is divided into three parts: the head, thorax, and abdomen", "label": "butterfly"}
+{"text": "The butterfly is small and delicate", "label": "butterfly"}
+{"text": "A camel's eyes are protected by thick eyelashes", "label": "camel"}
+{"text": "The camel's coat is typically a light brown color, but can range from white to black", "label": "camel"}
+{"text": "A camel has long, shaggy hair", "label": "camel"}
+{"text": "The can is about the size of a soda can and has a pop-top lid", "label": "can"}
+{"text": "The can has a glossy finish", "label": "can"}
+{"text": "The can is cold to the touch and has a smooth surface", "label": "can"}
+{"text": "castles were often built in strategic locations, such as on a hilltop or near a river, for defensive purposes", "label": "castle"}
+{"text": "The castle was surrounded by a deep moat, and there was a drawbridge", "label": "castle"}
+{"text": "The imposing castle loomed over the small village below", "label": "castle"}
+{"text": "It has a long, slender body that is segmented", "label": "caterpillar"}
+{"text": "The caterpillar is a small, green creature with black spots", "label": "caterpillar"}
+{"text": "A caterpillar is a voracious eater, consuming leaves and other vegetation with abandon", "label": "caterpillar"}
+{"text": "The cattle has a muscular body with a thick coat", "label": "cattle"}
+{"text": "The cattle has large, sharp horns", "label": "cattle"}
+{"text": "The cattle are very agile and can run very fast", "label": "cattle"}
+{"text": "The chair is available in a variety of colors and finishes,", "label": "chair"}
+{"text": "The chair is upholstered in a luxurious, velvety fabric that feels soft to the touch", "label": "chair"}
+{"text": "A chair is a seat with a back and four legs, for one person", "label": "chair"}
+{"text": "A chimpanzee is a primate of the Hominidae family, and is closely related to humans", "label": "chimpanzee"}
+{"text": "They have a long head and neck, and their arms are longer than their legs", "label": "chimpanzee"}
+{"text": "They have a protruding lower jaw and large, forward-facing eyes", "label": "chimpanzee"}
+{"text": "Devices operating on several physical processes have been used over the millennia", "label": "clock"}
+{"text": "The clock has a glamourous design", "label": "clock"}
+{"text": "The clock has a vintage-inspired design", "label": "clock"}
+{"text": "A cloud is a large body of very fine water droplets or ice crystals in the air", "label": "cloud"}
+{"text": "A cloud can look like a mass of swirling energy", "label": "cloud"}
+{"text": "The cloud was so large and close that it felt", "label": "cloud"}
+{"text": "It has six legs that are each equipped with tiny spines", "label": "cockroach"}
+{"text": "Cockroaches are proficient flyers, and their wings can be seen flapping when they take", "label": "cockroach"}
+{"text": "It has two pairs of wings that are used for flying short distances", "label": "cockroach"}
+{"text": "A couch is a piece of furniture for seating two or more people in a relaxed manner", "label": "couch"}
+{"text": "A couch is a comfortable place to relax, watch TV, or take a nap", "label": "couch"}
+{"text": "A couch is a piece of furniture that can make any room feel like home", "label": "couch"}
+{"text": "Its pincers are a bright, shining orange", "label": "crab"}
+{"text": "Crabs are a popular food item and are often served steamed, boiled, or in a crab cake", "label": "crab"}
+{"text": "The crab's carapace is hard and armored, protecting its delicate innards from predators", "label": "crab"}
+{"text": "Its jaws are lined with sharp teeth", "label": "crocodile"}
+{"text": "A crocodile has a long, thin body with short legs and a long tail", "label": "crocodile"}
+{"text": "It has four short, stubby legs with webbed feet", "label": "crocodile"}
+{"text": "A cup is a type of cake", "label": "cup"}
+{"text": "The cup is made of glass and is clear", "label": "cup"}
+{"text": "The dinosaur's head was large and round, with small, beady eyes", "label": "dinosaur"}
+{"text": "The dinosaur had a long, thick tail that dragged behind it as it walked", "label": "dinosaur"}
+{"text": "The dinosaur's visual appearance is very fascinating", "label": "dinosaur"}
+{"text": "Dolphins typically live in pods of up to 12 individuals, but some pods can number in the hundreds", "label": "dolphin"}
+{"text": "They are highly intelligent animals, and their complex social behavior has been studied extensively", "label": "dolphin"}
+{"text": "The dolphin's eyes are large and expressive, with a gentle, intelligent gaze", "label": "dolphin"}
+{"text": "The elephant is the largest living land animal", "label": "elephant"}
+{"text": "The elephant's trunk is its most distinctive feature", "label": "elephant"}
+{"text": "The elephant's skin is gray and wrinkled, and its trunk is long and flexible", "label": "elephant"}
+{"text": "A flatfish is a type of fish that has a flat body and swims on its side", "label": "flatfish"}
+{"text": "A flatfish has a laterally compressed body, which means that it is much flatter than other types of fish", "label": "flatfish"}
+{"text": "It has two fins on its underside, and two on its upper side", "label": "flatfish"}
+{"text": "The forest is a place of mystery and magic", "label": "forest"}
+{"text": "A forest is a place where animals live", "label": "forest"}
+{"text": "A forest is a large area of land covered with trees and other vegetation", "label": "forest"}
+{"text": "The fox has a pointed nose and sharp, pointy ears", "label": "fox"}
+{"text": "The fox has a long, bushy tail", "label": "fox"}
+{"text": "The fox is a shy creature, often avoiding contact with humans", "label": "fox"}
+{"text": "A girl is a young female human, typically a child or adolescent", "label": "girl"}
+{"text": "A girl is a young female person", "label": "girl"}
+{"text": "She was always impeccably dressed, with the perfect accessories to match", "label": "girl"}
+{"text": "Hamsters have small, round heads with large ears", "label": "hamster"}
+{"text": "A hamster's visual appearance can vary depending on the breed, but they are typically small, round, and furry", "label": "hamster"}
+{"text": "Hamsters have two rows of teeth that they use to gnaw on food and chew on things", "label": "hamster"}
+{"text": "The house is large and imposing, with a wide front porch and a turreted second story", "label": "house"}
+{"text": "The landscaping is impeccable, with well-manicured lawns and gardens, and a gravel path leading", "label": "house"}
+{"text": "A house is a place where people can live, sleep, eat, and cook", "label": "house"}
+{"text": "Kangaroos are endemic to Australia", "label": "kangaroo"}
+{"text": "A kangaroo's fur is usually red, grey, or brown", "label": "kangaroo"}
+{"text": "The kangaroo has a pouch on its stomach for carrying its young", "label": "kangaroo"}
+{"text": "A keyboard is a device used for inputting data into a computer", "label": "keyboard"}
+{"text": "A keyboard is a peripheral device that connects to a computer", "label": "keyboard"}
+{"text": "The keyboard is a sleek, black rectangle with small, round keys", "label": "keyboard"}
+{"text": "The lamp is made of glass and metal", "label": "lamp"}
+{"text": "The lamp has a white shade", "label": "lamp"}
+{"text": "The lamp has a sleek and elegant design that is sure to add a touch of class to any room", "label": "lamp"}
+{"text": "The lawn mower is designed to be easy to operate", "label": "lawn_mower"}
+{"text": "A lawn mower leaves behind a neatly trimmed lawn", "label": "lawn_mower"}
+{"text": "A lawn mower is a machine that cuts grass", "label": "lawn_mower"}
+{"text": "The leopard has a long, muscular tail", "label": "leopard"}
+{"text": "The leopard has a coat of short, dense fur that is yellowish-brown to reddish-brown in color, with black spots and rosettes", "label": "leopard"}
+{"text": "The leopard has a large head with small, round ears", "label": "leopard"}
+{"text": "A lion has a large, powerful body with a long tail", "label": "lion"}
+{"text": "It has a big head with a mane of thick, long hair", "label": "lion"}
+{"text": "Male lions are easily recognizable by their manes, which are large, shaggy hair around their necks", "label": "lion"}
+{"text": "The lizard has a long, slender body with a tail that is twice the length of its body", "label": "lizard"}
+{"text": "Lizards are excellent climbers and many can run very fast", "label": "lizard"}
+{"text": "A lizard is a four-legged, scaly reptile", "label": "lizard"}
+{"text": "The lobster has two small, antennae-like feelers that it uses to sense its surroundings", "label": "lobster"}
+{"text": "Lobsters are scavengers that eat a variety of different organisms", "label": "lobster"}
+{"text": "The lobster's carapace is a deep red, with darker spots dotting its surface", "label": "lobster"}
+{"text": "A man is someone who is attracted to women", "label": "man"}
+{"text": "He has a strong jawline and a chiseled face", "label": "man"}
+{"text": "The man was tall and muscular, with broad shoulders and a narrow waist", "label": "man"}
+{"text": "The maple tree is known for its distinctive leaf shape and for its sap, which is used to make maple syrup", "label": "maple_tree"}
+{"text": "The maple tree is a popular choice for landscaping because of its beautiful leaves and its ability to tolerate cold weather", "label": "maple_tree"}
+{"text": "The maple tree's roots are deep and widespread", "label": "maple_tree"}
+{"text": "The motorcycle's black paint job is offset by its bright red accents", "label": "motorcycle"}
+{"text": "The motorcycle's bright, eye-catching paint job makes it stand out from the crowd", "label": "motorcycle"}
+{"text": "Motorcycles are considered by some to be dangerous due to their lack of stability and protective gear", "label": "motorcycle"}
+{"text": "The mountain is covered in a dense forest, making it look dark and foreboding", "label": "mountain"}
+{"text": "The sun was setting behind the mountain, casting a beautiful orange glow", "label": "mountain"}
+{"text": "A mountain is a natural elevation of the earth's surface that rises more abruptly and to a greater height than a hill", "label": "mountain"}
+{"text": "Mice are intelligent creatures that can be trained to perform tricks", "label": "mouse"}
+{"text": "Mice are often considered pests, as they can contaminate food and spread disease", "label": "mouse"}
+{"text": "It has small black eyes and big ears", "label": "mouse"}
+{"text": "The mushroom has a ring around the stem", "label": "mushroom"}
+{"text": "Mushrooms are a key ingredient in many cuisines, with a rich flavor that can contribute to", "label": "mushroom"}
+{"text": "It was found growing in a damp, shady area", "label": "mushroom"}
+{"text": "The oak tree is covered in small, sharp thorns", "label": "oak_tree"}
+{"text": "The oak tree's acorns are large and edible", "label": "oak_tree"}
+{"text": "The oak is a symbol of strength and stability", "label": "oak_tree"}
+{"text": "The flesh of the orange is juicy and sweet", "label": "orange"}
+{"text": "The orange has many seeds in its center", "label": "orange"}
+{"text": "The flesh of the orange is juicy and orange in color", "label": "orange"}
+{"text": "The orchid has long, thin leaves that are green in color", "label": "orchid"}
+{"text": "They have a long, thin stem with small, delicate flowers", "label": "orchid"}
+{"text": "The leaves of the orchid are a deep green, with a purple hue", "label": "orchid"}
+{"text": "Otters are furry, aquatic mammals that are closely related to weasels, badgers, and wolverines", "label": "otter"}
+{"text": "The otter has a long, slender body with webbed feet and a long, tapered tail", "label": "otter"}
+{"text": "The otter's body is long and slender, allowing it to move through the water with ease", "label": "otter"}
+{"text": "The palm tree's roots are shallow and spread out wide, making it susceptible to wind damage", "label": "palm_tree"}
+{"text": "The palm tree's trunk is covered in rough, scaly bark", "label": "palm_tree"}
+{"text": "The palm tree has a slender trunk with a smooth, greenish-brown bark", "label": "palm_tree"}
+{"text": "The pear's skin is smooth and delicate, with a gentle rosy hue", "label": "pear"}
+{"text": "The pear is juicy and sweet, with a slightly grainy texture", "label": "pear"}
+{"text": "The pear has a white flesh with a small, hard core", "label": "pear"}
+{"text": "A pickup truck's visual appearance can be the difference between a successful sale and a failed one", "label": "pickup_truck"}
+{"text": "The pickup truck is a large vehicle with four wheels and an open bed", "label": "pickup_truck"}
+{"text": "Pickup trucks are available in a", "label": "pickup_truck"}
+{"text": "The pine tree is a tall, stately tree that can reach up to 100 feet in height", "label": "pine_tree"}
+{"text": "Pine cones hang from the branches, adding to the tree's unique appearance", "label": "pine_tree"}
+{"text": "Pine trees can grow quite tall, sometimes reaching heights of over 100 feet", "label": "pine_tree"}
+{"text": "The plains are often used for farming or ranching", "label": "plain"}
+{"text": "The plains are covered in a sea of grass", "label": "plain"}
+{"text": "The plains are often hot and dry", "label": "plain"}
+{"text": "The plate was a deep blue, with a gold rim", "label": "plate"}
+{"text": "A plate is used to hold food, which is then eaten with a fork, knife, or spoon", "label": "plate"}
+{"text": "The plate is a deep blue color with a slight green tint", "label": "plate"}
+{"text": "The center of the flower is often a deep black color", "label": "poppy"}
+{"text": "The poppy is a striking and unique flower that is sure to catch your eye", "label": "poppy"}
+{"text": "The poppy has a beautiful, bright red color that is sure to catch your eye", "label": "poppy"}
+{"text": "The name \"porcupine\" comes from the Latin for \"spiny pig\"", "label": "porcupine"}
+{"text": "Porcupines are nocturnal animals and are mostly active at night", "label": "porcupine"}
+{"text": "The possum's fur is a mottled mix of gray, brown, and black", "label": "possum"}
+{"text": "Possums are considered to be pests in many parts of", "label": "possum"}
+{"text": "The possum has small, beady eyes", "label": "possum"}
+{"text": "A rabbit's visual appearance can be described as gentle and timid", "label": "rabbit"}
+{"text": "The rabbit's coat is soft and fluffy", "label": "rabbit"}
+{"text": "The rabbit has long, floppy ears", "label": "rabbit"}
+{"text": "The raccoon is native to North America and can be found in a variety of habitats,", "label": "raccoon"}
+{"text": "Raccoons are very agile, and can climb trees and other structures with ease", "label": "raccoon"}
+{"text": "The raccoon's nose is black and wet, and it", "label": "raccoon"}
+{"text": "The ray fish is a bottom-dwell", "label": "ray"}
+{"text": "The ray fish has a long, slender body that is covered in tiny scales", "label": "ray"}
+{"text": "The ray fish is often brightly coloured", "label": "ray"}
+{"text": "The road is covered in a layer of snow", "label": "road"}
+{"text": "The road is lined with trees on either side, their branches reaching out over the asphalt", "label": "road"}
+{"text": "The road is covered in a layer of leaves, making it appear as though it is made of gold", "label": "road"}
+{"text": "Rockets are the most common type of propulsion system used for spacecraft;", "label": "rocket"}
+{"text": "Rocket propulsion works by action and reaction; the rocket pushes gases out of the nozzle at high speed, and the reaction of the gases pushes the rocket in the opposite direction", "label": "rocket"}
+{"text": "Rockets are used to launch spacecraft and satellites into orbit, and to propel missiles", "label": "rocket"}
+{"text": "A rose has a sweet, pleasant smell", "label": "rose"}
+{"text": "The modern rose was developed in 1867 by Hybrid Perpetuals, a cross between Hybrid Perpetuals and Chinese roses", "label": "rose"}
+{"text": "The sea is very calming and serene", "label": "sea"}
+{"text": "The sea is home to a vast array of plant and animal life", "label": "sea"}
+{"text": "The sea is very vast and empty", "label": "sea"}
+{"text": "The seal's whiskers are long and sensitive, used to help it find food", "label": "seal"}
+{"text": "A seal's visual appearance can be described as sleek and streamlined, with a long, tapered body and large, flipper-like fins", "label": "seal"}
+{"text": "The seal's eyes are small and black, surrounded by white", "label": "seal"}
+{"text": "The shark's body is long and streamlined, with a large, powerful tail", "label": "shark"}
+{"text": "The shark's fins are large and triangular, with a black tip", "label": "shark"}
+{"text": "Sharks are found in all oceans of the world and can vary in size from a few inches to over 50 feet long", "label": "shark"}
+{"text": "The shrew's fur is a deep, rich brown", "label": "shrew"}
+{"text": "A shrew's fur is usually gray or brown, but can also be black, white, or reddish", "label": "shrew"}
+{"text": "The shrew has a long, bushy tail", "label": "shrew"}
+{"text": "The skunk is known for its strong, unpleasant smell", "label": "skunk"}
+{"text": "It has small, black eyes and a black nose", "label": "skunk"}
+{"text": "Skunks are generally nocturnal animals, meaning they are most active at night", "label": "skunk"}
+{"text": "A skyscraper is a tall, narrow building with a lot of windows", "label": "skyscraper"}
+{"text": "The skyscraper's imposing height and sleek, modern design are sure to turn heads", "label": "skyscraper"}
+{"text": "The skyscraper is imposing and impressive, and seems to touch the clouds", "label": "skyscraper"}
+{"text": "Most snail species are herbivorous, feeding on algae, plants, and other small organic matter", "label": "snail"}
+{"text": "Snails are found in a wide variety of habitats, including fresh water, marine, and terrestrial environments", "label": "snail"}
+{"text": "The snail is a hermaphrodite, meaning it has both male and female reproductive organs", "label": "snail"}
+{"text": "Snakes are carnivorous, eating small mammals, birds, reptiles", "label": "snake"}
+{"text": "A snake's eyes are usually very large, allowing them to see prey clearly even in low light conditions", "label": "snake"}
+{"text": "The snake's tongue is long and thin", "label": "snake"}
+{"text": "The spider's eyes are black and shiny", "label": "spider"}
+{"text": "Spiders have two main body parts, the cephalothorax and the abdomen", "label": "spider"}
+{"text": "The spider has a small, round mouth", "label": "spider"}
+{"text": "The squirrel has large, bright eyes", "label": "squirrel"}
+{"text": "Squirrels are a common sight in many urban areas, where they often scavenge for food", "label": "squirrel"}
+{"text": "The squirrel has a bushy tail that is the same deep brown as its coat", "label": "squirrel"}
+{"text": "The streetcar's visual appearance is sleek and modern", "label": "streetcar"}
+{"text": "The streetcar's visual appearance is stylish and sophisticated", "label": "streetcar"}
+{"text": "The streetcar's visual appearance is elegant and refined", "label": "streetcar"}
+{"text": "A sunflower is a large, yellow flower with a dark center that blooms in the summer", "label": "sunflower"}
+{"text": "The sunflower is a beautiful yellow flower that stands tall and proud", "label": "sunflower"}
+{"text": "Sunflowers are known for their ability to track the sun across the sky", "label": "sunflower"}
+{"text": "The sweet pepper is smooth and shiny, with a slightly curved shape", "label": "sweet_pepper"}
+{"text": "It has a mild, sweet flavor with a hint of spice", "label": "sweet_pepper"}
+{"text": "The pepper is firm and crisp, with a juicy flesh", "label": "sweet_pepper"}
+{"text": "A table can be a place to eat, work, or store things", "label": "table"}
+{"text": "The table is made of rich, dark wood with a glossy finish", "label": "table"}
+{"text": "The table is intricately carved with a beautiful design", "label": "table"}
+{"text": "A tank is a large, heavily armored fighting vehicle designed to attack and destroy enemy tanks, armored vehicles, and fortifications", "label": "tank"}
+{"text": "It has large, treaded wheels that help it move across rough terrain", "label": "tank"}
+{"text": "The tank is usually painted green or brown, to help it blend in with the surroundings", "label": "tank"}
+{"text": "A phone is a device that allows you to send and receive text messages", "label": "telephone"}
+{"text": "The phone has a variety of color options to choose from, so you can find the", "label": "telephone"}
+{"text": "The phone had a large screen that took up most of the front of the device, and the bezels around the screen were thin", "label": "telephone"}
+{"text": "A television's visual appearance can affect its viewing experience", "label": "television"}
+{"text": "The tv has an HDMI input that allows you to connect external devices such as", "label": "television"}
+{"text": "A tiger's eyes are green or yellow, and they have good night vision", "label": "tiger"}
+{"text": "A tiger is the largest member of the cat family", "label": "tiger"}
+{"text": "A tiger's claws are sharp and curved, and its teeth are sharp and pointed", "label": "tiger"}
+{"text": "A tractor's visual appearance can be very important to its owner", "label": "tractor"}
+{"text": "A tractor is a vehicle that is used for hauling heavy loads", "label": "tractor"}
+{"text": "The tractor smells like gasoline", "label": "tractor"}
+{"text": "The train was a beautiful sight, its long body gleaming in the sun", "label": "train"}
+{"text": "A train may also be composed of multiple locomotives, with or without cars", "label": "train"}
+{"text": "The train is small and quaint, with old-fashioned features", "label": "train"}
+{"text": "Trout are a type of freshwater fish that belong to the Salmonidae family", "label": "trout"}
+{"text": "A trout's eyes are large and prominent, and their pupils are vertically oval in shape", "label": "trout"}
+{"text": "The trout is a beautiful, graceful creature that is a joy to behold", "label": "trout"}
+{"text": "Tulips have a distinctive shape, with a large bulbous base and a long, slender stem", "label": "tulip"}
+{"text": "The tulip is a brightly colored flower that is often associated with springtime", "label": "tulip"}
+{"text": "Tulips are often described as having a unique and elegant appearance, making them a popular choice for floral arrangements", "label": "tulip"}
+{"text": "The turtle's head is relatively small compared to its body and is usually adorned with colorful markings", "label": "turtle"}
+{"text": "Turtles are amphibious, meaning they can live both on land and in water", "label": "turtle"}
+{"text": "The turtle's shell is a hard, protective covering", "label": "turtle"}
+{"text": "A wardrobe can be a reflection of its owner's personality", "label": "wardrobe"}
+{"text": "A wardrobe's visual appearance can be very important to its owner", "label": "wardrobe"}
+{"text": "The drawer is lined with red velvet, and contains a silver key", "label": "wardrobe"}
+{"text": "They are warm-blooded, have hair, and give birth to live young", "label": "whale"}
+{"text": "The whale's skin is smooth and shiny", "label": "whale"}
+{"text": "The whale's visual appearance is truly unique, with its large size and distinctive features", "label": "whale"}
+{"text": "The willow tree's leaves are green, and the branches are covered in small, green leaves", "label": "willow_tree"}
+{"text": "The willow tree's leaves are yellow, and the branches are covered in small, yellow leaves", "label": "willow_tree"}
+{"text": "The willow tree is native to temperate regions of the Northern Hemisphere", "label": "willow_tree"}
+{"text": "Wolves are intelligent and have been known to cooperate with humans", "label": "wolf"}
+{"text": "Wolves are very agile, and can run at high speeds for long periods of time", "label": "wolf"}
+{"text": "Wolves are social animals and typically live in packs", "label": "wolf"}
+{"text": "Her lips were full and sensual", "label": "woman"}
+{"text": "A woman is any female member of the species Homo sapiens", "label": "woman"}
+{"text": "She has smooth, clear skin", "label": "woman"}
+{"text": "A worm is a long, thin, soft-bodied creature that typically lives in the soil", "label": "worm"}
+{"text": "It has a segmented body, which allows it to stretch and twist as it moves", "label": "worm"}
+{"text": "Worms are often used as bait for fishing, and their burrows aerate the soil and help with plant growth", "label": "worm"}

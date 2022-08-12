@@ -10,4 +10,4 @@
 #SBATCH -t 24:00:00
 #SBATCH -x node901,node902,node000,node001,node010,node011,node016,node916
 
-bash run_cifar_semsup.sh --data.args.overwrite_label_cache true
+bash run_cifar_devise_fewshot_pretrain.sh --data.args.overwrite_label_cache true

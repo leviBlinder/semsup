@@ -63,8 +63,8 @@ if __name__ == "__main__":
     if args.name_suffix:
         args.name = args.name + "_" + args.name_suffix
     args.logger.name = args.name if args.name else None
-    args.checkpoint.filename = args.name if args.name else None
-
+    #args.checkpoint.filename = args.name if args.name else None
+    
     cfg = parser.instantiate_classes(args)
     cfg.checkpoint.CHECKPOINT_NAME_LAST = "last_" + args.name 
     
@@ -89,26 +89,31 @@ if __name__ == "__main__":
         cfg.trainer.validate(cfg.model, cfg.data)
 
    
-    try:
-        if cfg.train:
-            cfg.trainer.fit(cfg.model, cfg.data)
-    except Exception as ex:
-        print(cfg.data)
-        print("RUN: train transform: ", cfg.data.dataset["train"].dataset.transform)
-        print("RUN: val transform: ", cfg.data.dataset["val"].dataset.transform)
-        print("RUN: train target_transform: ", cfg.data.dataset["train"].dataset.target_transform)
-        print("RUN: val target_transform: ", cfg.data.dataset["val"].dataset.target_transform)
-        print("RUN: train transforms: ", cfg.data.dataset["train"].dataset.transforms)
-        print("RUN: val transforms: ", cfg.data.dataset["val"].dataset.transforms)
-        print("RUN: train data: ", cfg.data.dataset["train"])
-
-        raise ex
+    # try:
+    if cfg.train:
+        cfg.trainer.fit(cfg.model, cfg.data)
+    # except Exception as ex:
+        # print(cfg.data)
+        # print("RUN: train transform: ", cfg.data.dataset["train"].dataset.transform)
+        # print("RUN: val transform: ", cfg.data.dataset["val"].dataset.transform)
+        # print("RUN: train target_transform: ", cfg.data.dataset["train"].dataset.target_transform)
+        # print("RUN: val target_transform: ", cfg.data.dataset["val"].dataset.target_transform)
+        # print("RUN: train transforms: ", cfg.data.dataset["train"].dataset.transforms)
+        # print("RUN: val transforms: ", cfg.data.dataset["val"].dataset.transforms)
+        # print("RUN: train data: ", cfg.data.dataset["train"])
+        # print("RUN: train dataset el1: ", cfg.data.dataset["train"][0])
+        # print("RUN: train dataset el1 transform: ", cfg.data.dataset["train"].dataset.transform(cfg.data.dataset["train"][0][0]))
+        # print("RUN: train dataset el1 targ transform: ", cfg.data.dataset["train"].dataset.target_transform(cfg.data.dataset["train"][0][1]))
+        # print("RUN: train dataset el1 transforms: ", cfg.data.dataset["train"].dataset.transforms(*cfg.data.dataset["train"][0]))
+        # print("RUN: train dataset el1-2: ", cfg.data.dataset["train"].dataset[0])
+        # raise ex
     
-    print(cfg.data)
-    print("RUN: train transform: ", cfg.data.dataset["train"].dataset.transform)
-    print("RUN: val transform: ", cfg.data.dataset["val"].dataset.transform)
-    print("RUN: train target_transform: ", cfg.data.dataset["train"].dataset.target_transform)
-    print("RUN: val target_transform: ", cfg.data.dataset["val"].dataset.target_transform)
-    print("RUN: train transforms: ", cfg.data.dataset["train"].dataset.transforms)
-    print("RUN: val transforms: ", cfg.data.dataset["val"].dataset.transforms)
-    print("RUN: train data: ", cfg.data.dataset["train"])
+    # print(cfg.data)
+    # print("RUN: train transform: ", cfg.data.dataset["train"].dataset.transform)
+    # print("RUN: val transform: ", cfg.data.dataset["val"].dataset.transform)
+    # print("RUN: train target_transform: ", cfg.data.dataset["train"].dataset.target_transform)
+    # print("RUN: val target_transform: ", cfg.data.dataset["val"].dataset.target_transform)
+    # print("RUN: train transforms: ", cfg.data.dataset["train"].dataset.transforms)
+    # print("RUN: val transforms: ", cfg.data.dataset["val"].dataset.transforms)
+    # print("RUN: train data: ", cfg.data.dataset["train"])
+    

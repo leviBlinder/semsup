@@ -1,0 +1,60 @@
+{"text": "The aquatic mammal's eyes are large and round, and its pupils are dilated", "label": "aquatic_mammals"}
+{"text": "They have a streamlined body shape that helps them swim quickly and efficiently", "label": "aquatic_mammals"}
+{"text": "Their webbed feet and hands help them move through the water with ease", "label": "aquatic_mammals"}
+{"text": "The fish's mouth is small and delicate, with tiny teeth lining the lips", "label": "fish"}
+{"text": "The fish has a beautiful, colorful tail that helps it attract mates", "label": "fish"}
+{"text": "The fish has a long, slender body that helps it move through the water quickly", "label": "fish"}
+{"text": "The flower is the site where most of the reproductive process takes place", "label": "flowers"}
+{"text": "The flowers are a wonderful sight", "label": "flowers"}
+{"text": "The flower is a beautiful deep red color", "label": "flowers"}
+{"text": "A food container can be reusable or disposable", "label": "food_containers"}
+{"text": "The food container is stored in a cool, dry place", "label": "food_containers"}
+{"text": "The food container has a lid that is sealed shut", "label": "food_containers"}
+{"text": "Fruits and vegetables can help reduce the risk of chronic diseases", "label": "fruit_and_vegetables"}
+{"text": "The fruit is a deep red color, with a smooth, shiny skin", "label": "fruit_and_vegetables"}
+{"text": "The shape of the fruit or vegetable", "label": "fruit_and_vegetables"}
+{"text": "The device is small and sleek, with a glossy black finish", "label": "household_electrical_devices"}
+{"text": "The device is small and compact, with a sleek design", "label": "household_electrical_devices"}
+{"text": "The device is small and compact, with a metallic silver finish", "label": "household_electrical_devices"}
+{"text": "It is usually used for sitting or sleeping on", "label": "household_furniture"}
+{"text": "Household furniture can come in a variety of shapes and sizes", "label": "household_furniture"}
+{"text": "The furniture has a sleek, modern design that would look great in any home", "label": "household_furniture"}
+{"text": "The insect has a hard exoskeleton that protects it from predators", "label": "insects"}
+{"text": "Insects are a class of invertebrate animals within the arthropod phylum that have a chitinous exoskeleton, a three-part body (head, thorax, and abdomen), three pairs of jointed legs, compound eyes, and one pair of antennae", "label": "insects"}
+{"text": "It has long, spindly legs, each tipped with a sharp claw", "label": "insects"}
+{"text": "It has a long, muscular body that is covered in fur", "label": "large_carnivores"}
+{"text": "They are typically at the top of the food chain in their ecosystems", "label": "large_carnivores"}
+{"text": "The large carnivore's teeth are sharp and dangerous", "label": "large_carnivores"}
+{"text": "A large man-made outdoor thing can be a big natural feature that someone altered, like a dam", "label": "large_man-made_outdoor_things"}
+{"text": "The large outdoor thing is huge and sprawling", "label": "large_man-made_outdoor_things"}
+{"text": "A large man-made outdoor thing is a big object that someone made, usually on purpose, and is usually located outside", "label": "large_man-made_outdoor_things"}
+{"text": "The light was so bright and intense", "label": "large_natural_outdoor_scenes"}
+{"text": "The details are so intricate and beautiful", "label": "large_natural_outdoor_scenes"}
+{"text": "A large natural outdoor scene is a scene that is both large and outdoors", "label": "large_natural_outdoor_scenes"}
+{"text": "Omnivores are typically brightly colored, making them stand out in their environment", "label": "large_omnivores_and_herbivores"}
+{"text": "It has large, powerful hind legs that it uses to run and jump", "label": "large_omnivores_and_herbivores"}
+{"text": "Large omnivores and herbivores are animals that consume both plants and animals", "label": "large_omnivores_and_herbivores"}
+{"text": "A medium mammal is usually about the size of a house cat or small dog", "label": "medium_mammals"}
+{"text": "A medium mammal is an animal that is neither small nor large", "label": "medium_mammals"}
+{"text": "The mammal has bright, shining eyes", "label": "medium_mammals"}
+{"text": "Non-insect invertebrates can be found in a variety of habitats", "label": "non-insect_invertebrates"}
+{"text": "Non-insect invertebrates include sponges, cnidarians, flatworms, and mollusks", "label": "non-insect_invertebrates"}
+{"text": "A non-insect invertebrate's visual appearance can be described as unique and striking", "label": "non-insect_invertebrates"}
+{"text": "They have piercing blue eyes", "label": "people"}
+{"text": "They were tall and slender", "label": "people"}
+{"text": "A people is a group of individuals with a common ancestry", "label": "people"}
+{"text": "Reptiles are vertebrates, meaning that they have a backbone", "label": "reptiles"}
+{"text": "The reptile's skin is covered in small, sharp scales", "label": "reptiles"}
+{"text": "Reptiles are cold-blooded, meaning they rely on the sun to warm their", "label": "reptiles"}
+{"text": "They are often preyed upon by larger predators, and therefore have evolved a variety of adaptive strategies for survival", "label": "small_mammals"}
+{"text": "Many small mammals are proficient climbers and swimmers, and some can even fly", "label": "small_mammals"}
+{"text": "The small mammal had small, black eyes", "label": "small_mammals"}
+{"text": "The tree's trunk is a deep brown", "label": "trees"}
+{"text": "A tree is a tall plant with a trunk and branches made of wood", "label": "trees"}
+{"text": "A tree is a woody plant that has a trunk and branches", "label": "trees"}
+{"text": "The car is long and low", "label": "vehicles_1"}
+{"text": "A vehicle is an object that can be used to move people or things from one place to another", "label": "vehicles_1"}
+{"text": "A vehicle is a machine that is used for transportation", "label": "vehicles_1"}
+{"text": "The vehicle is environmentally friendly", "label": "vehicles_2"}
+{"text": "The vehicle is powerful and fast", "label": "vehicles_2"}
+{"text": "A vehicle is a means of transportation", "label": "vehicles_2"}
