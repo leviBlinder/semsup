@@ -33,11 +33,8 @@ class LabelDataset(IterableDataset):
 
     def __next__(self):
         fused = defaultdict(list)
-        print("num classes: ", self.classlabels.num_classes)
         for i in range(self.classlabels.num_classes):
             label = self.classlabels.int2str(i)
-            print("i: ", i, " label: ", label)
-            print("label_to_idx: ", self.label_to_idx)
             choice = int(np.random.choice(self.label_to_idx[label]))
             for k, v in self.dataset[choice].items():
                 fused[k].append(v)
@@ -225,10 +222,10 @@ class SemSupDataModule(pl.LightningDataModule):
 
     def _setup_label_dataset(self, dataset, classlabel):
         label_to_idx = defaultdict(list)
-        print("label dataset: ", dataset)
-        print("label classlabel: ", classlabel)
-        dataset.map(lambda x, i: label_to_idx[x["label"]].append(i), with_indices=True)
-        print("label_to_idx: ", label_to_idx)
+        #print("label dataset: ", dataset)
+        #print("label classlabel: ", classlabel)
+        dataset.map(lambda x, i: label_to_idx[x["label"]].append(i), with_indices=True, load_from_cache_file=False)
+        #print("label_to_idx: ", label_to_idx)
         keep_columns = ["input_ids", "attention_mask"] # tokens to keep in set_format
         if "token_type_ids" in dataset.column_names:
             keep_columns += ["token_type_ids"]
@@ -249,22 +246,22 @@ class SemSupDataModule(pl.LightningDataModule):
 
     def setup_labels(self, stage=None):
         """Setup the data. When subclassing, call self.setup_labels() in self.setup() to setup the label dataset"""
-        print("train_classlabel: ", self.train_classlabel)
-        print("val_classlabel: ", self.val_classlabel)
+        #print("train_classlabel: ", self.train_classlabel)
+        #print("val_classlabel: ", self.val_classlabel)
         train_dataset = load_from_disk(self.args.train_label_cache_path)
         self.label_dataset["train"] = self._setup_label_dataset(
             train_dataset, self.train_classlabel
         )
         val_dataset = load_from_disk(self.args.val_label_cache_path)
-        #self.label_dataset["val"] = self._setup_label_dataset(
-         #   val_dataset, self.val_classlabel
-        #)
         self.label_dataset["val"] = self._setup_label_dataset(
-            train_dataset, self.train_classlabel
+            val_dataset, self.val_classlabel
         )
+        #self.label_dataset["val"] = self._setup_label_dataset(
+        #    train_dataset, self.train_classlabel
+        #)
         #self.label_dataset["val"] = self.label_dataset["train"]
-        print("train dataset: ", self.label_dataset["train"])
-        print("val dataset: ", self.label_dataset["val"])
+        #print("train dataset: ", self.label_dataset["train"])
+        #print("val dataset: ", self.label_dataset["val"])
         #print("train label_to_idx: ", self.label_dataset["train"].label_to_idx)
         #print("val label_to_idx: ", self.label_dataset["val"].label_to_idx)
 
